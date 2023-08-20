@@ -22,6 +22,7 @@ var num1 = +prompt("Enter First Number")
 var num2 = +prompt("Enter Second Number")
 var add = num1+num2;
 var sub = num1-num2;
+var mul = num1*num2;
+var div = num1/num2;
 
 document.write(add)
-document.write(sub)
