@@ -33,3 +33,9 @@
 // var num1 = 15;
 // var num2 = 10;
 // document.write(num1 * num2)
+
+// practice 7
+var num1 = +prompt("Enter First Number");
+var num2 = +prompt("Enter Second Number");
+
+document.write()
