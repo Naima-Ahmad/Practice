@@ -25,4 +25,3 @@ var sub = num1-num2;
 var mul = num1*num2;
 var div = num1/num2;
 
-document.write(add,sub,mul,div)
