@@ -27,4 +27,4 @@
 // Practice 5
 var num1 = 15;
 var num2 = 10;
-// document.write(num1 * num2)
+document.write(num1 * num2)
