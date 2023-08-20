@@ -20,3 +20,5 @@
 
 var num1 = +prompt("Enter First Number")
 var num2 = +prompt("Enter Second Number")
+
+document.write(num1+num2)
