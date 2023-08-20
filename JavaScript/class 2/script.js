@@ -36,6 +36,6 @@ var mul = num1 * num2;
 var div = num1 / num2;
 
  document.write("The sum of "+num1+" and "+num2+" is "+add)
- document.write("The division of "+num1+" and "+num2+" is "+add)
+ document.write("The division of "+num1+" and "+num2+" is "+div)
  document.write("The sum of "+num1+" and "+num2+" is "+add)
  document.write("The sum of "+num1+" and "+num2+" is "+add)
