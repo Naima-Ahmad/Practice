@@ -41,5 +41,6 @@ var num2 = +prompt("Enter Second Number");
 var sum = num1+num2;
 var sub = num1-num2;
 var mul = num1*num2;
+var div = num1/num2;
 
 document.write("The sum of "+num1+" and "+num2+" is "+add)
