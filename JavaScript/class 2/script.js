@@ -18,5 +18,5 @@
 
 // document.write(num1/num2)
 
-var num1 = prompt("Enter First Number")
-var num2 = prompt("Enter Second Number")
+var num1 = +prompt("Enter First Number")
+var num2 = +prompt("Enter Second Number")
