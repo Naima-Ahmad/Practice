@@ -37,3 +37,4 @@ var div = num1 / num2;
 
  document.write("The sum of "+num1+" and "+num2+" is "+add)
  document.write("The sum of "+num1+" and "+num2+" is "+add)
+ document.write("The sum of "+num1+" and "+num2+" is "+add)
