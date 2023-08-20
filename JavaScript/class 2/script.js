@@ -37,5 +37,5 @@ var div = num1 / num2;
 
  document.write("The sum of "+num1+" and "+num2+" is "+add)
  document.write("The division of "+num1+" and "+num2+" is "+div)
- document.write("The multiplication of "+num1+" and "+num2+" is "+mul)
  document.write("The subtraction of "+num1+" and "+num2+" is "+sub)
+ document.write("The multiplication of "+num1+" and "+num2+" is "+mul)
