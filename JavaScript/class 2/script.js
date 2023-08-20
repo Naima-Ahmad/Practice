@@ -25,4 +25,4 @@ var sub = num1-num2;
 var mul = num1*num2;
 var div = num1/num2;
 
-document.write("The sum of")
+document.write("The sum of "+num1)
