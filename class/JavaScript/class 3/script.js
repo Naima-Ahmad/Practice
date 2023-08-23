@@ -43,5 +43,5 @@ if(num == 5){
     document.write("Okay")
 }
 else{
-    document
+    document.write
 }
