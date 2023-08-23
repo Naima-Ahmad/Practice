@@ -19,5 +19,5 @@ if(email == "naima@gmail.com" && pass == "1234"){
     document.write("Correct")
 }
 else{
-    document.write("")
+    document.write("Not correct")
 }
