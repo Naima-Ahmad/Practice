@@ -75,3 +75,6 @@ var urdu = +prompt("Enter Urdu Marks")
 var pst = +prompt("Enter Pak.Studies Marks")
 var bio = +prompt("Enter Bio Marks")
 var chem = +prompt("Enter Chemistry Marks")
+
+var total = eng + urdu + pst + bio + chem;
+var perc = (total / 500) * 100;
