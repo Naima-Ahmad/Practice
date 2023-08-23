@@ -38,4 +38,4 @@
 
 // Example 4
 
-
+var num = 5;
