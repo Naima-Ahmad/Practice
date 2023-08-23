@@ -1,3 +1,3 @@
 var num = 76;
 
-if(num)
+if(num == 76)
