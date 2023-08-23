@@ -42,3 +42,6 @@ var num = 5;
 if(num == 5){
     document.write("Okay")
 }
+else{
+    document
+}
