@@ -66,3 +66,7 @@
 // else if (perc < 50){
 //     document.write("You are Fail")
 // }
+
+// Example 6
+
+var name = prompt("Enter your Name");
