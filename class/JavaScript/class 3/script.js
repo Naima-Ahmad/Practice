@@ -25,7 +25,7 @@
 
 // Practice 3
 
-var email = ;
+var email = prompt;
 var pass = "1234";
 
 if(email == "naima@gmail.com" && pass == "1234"){
