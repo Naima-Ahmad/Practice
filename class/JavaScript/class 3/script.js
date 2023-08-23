@@ -49,17 +49,22 @@
 
 // Example 5
 
-var perc = prompt("Enter Percentage");
+// var perc = prompt("Enter Percentage");
+
+var perc = prompt("Enter Percentage")
 
 if(perc >= 80){
     document.write("Your Grade is A+")
 }
-else if (perc >= 70 < 80){
+else if (perc >= 70 && perc < 80){
     document.write("Your Grade is A")
 }
-else if (perc >=60 && < 70){
+else if (perc >=60 && perc < 70){
     document.write("Your Grade is B")
 }
-else if (perc >= 50 && < 60){
-    document.write("")
+else if (perc >= 50 && perc < 60){
+    document.write("Your Grade is C")
+}
+else if (perc < 50){
+    document.write("You are Fail")
 }
