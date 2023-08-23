@@ -70,3 +70,4 @@
 // Example 6
 
 var name = prompt("Enter your Name");
+var eng = +prompt("Enter English Marks")
