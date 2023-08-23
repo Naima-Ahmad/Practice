@@ -1,8 +1,15 @@
-var num = 76;
+// Practice 1
 
-if(num == 56){
-    document.write("Correct")
-}
-else{
-    document.write("Incorrect")
-}
+// var num = 76;
+
+// if(num == 56){
+//     document.write("Correct")
+// }
+// else{
+//     document.write("Incorrect")
+// }
+
+
+// Practice 2
+
+
