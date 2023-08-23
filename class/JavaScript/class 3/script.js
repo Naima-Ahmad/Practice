@@ -1,4 +1,4 @@
-// Practice 1
+// Example 1
 
 // var num = 76;
 
@@ -10,7 +10,7 @@
 // }
 
 
-// Practice 2
+// Example 2
 
 // var email = "naima@gmail.com";
 // var pass = "1234";
@@ -23,14 +23,19 @@
 // }
 
 
-// Practice 3
+// Example 3
 
-var email = prompt("Enter Email");
-var pass = prompt("Enter Password");
+// var email = prompt("Enter Email");
+// var pass = prompt("Enter Password");
 
-if(email == "naima@gmail.com" && pass == "1234"){
-    document.write("Correct")
-}
-else{
-    document.write("Not correct")
-}
+// if(email == "naima@gmail.com" && pass == "1234"){
+//     document.write("Correct")
+// }
+// else{
+//     document.write("Not correct")
+// }
+
+
+// Example 4
+
+
