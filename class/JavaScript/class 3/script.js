@@ -15,7 +15,7 @@
 var email = "naima@gmail.com";
 var pass = "1234";
 
-if(email == "naima@gmail" && pass == "1234"){
+if(email == "naima@gmail.com" && pass == "1234"){
     document.write("Correct")
 }
 else{
