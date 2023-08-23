@@ -26,7 +26,7 @@
 // Practice 3
 
 var email = prompt("Enter Email");
-var pass = prompt("Enter");
+var pass = prompt("Enter Password");
 
 if(email == "naima@gmail.com" && pass == "1234"){
     document.write("Correct")
