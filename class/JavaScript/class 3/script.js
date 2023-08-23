@@ -52,5 +52,5 @@
 var perc = prompt("Enter Percentage");
 
 if(perc >= 80){
-    document.write
+    document.write("")
 }
