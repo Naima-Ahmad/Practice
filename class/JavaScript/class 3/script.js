@@ -12,20 +12,20 @@
 
 // Practice 2
 
-var email = "naima@gmail.com";
-var pass = "1234";
+// var email = "naima@gmail.com";
+// var pass = "1234";
 
-if(email == "naima@gmail.com" && pass == "1234"){
-    document.write("Correct")
-}
-else{
-    document.write("Not correct")
-}
+// if(email == "naima@gmail.com" && pass == "1234"){
+//     document.write("Correct")
+// }
+// else{
+//     document.write("Not correct")
+// }
 
 
 // Practice 3
 
-var email = "naima@gmail.com";
+var email = ;
 var pass = "1234";
 
 if(email == "naima@gmail.com" && pass == "1234"){
