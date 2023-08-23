@@ -78,3 +78,23 @@ var chem = +prompt("Enter Chemistry Marks")
 
 var total = eng + urdu + pst + bio + chem;
 var perc = (total / 500) * 100;
+var grade;
+
+if (perc >= 80 && perc < 101){
+    grade = "A+";  
+}
+else if (perc >= 70 && perc < 80){
+    grade = "A";    
+}
+else if (perc >= 60 && perc < 70){
+    grade = "B";    
+}
+
+else if (perc >= 60 && perc < 70){
+    grade = "C";    
+}
+else {
+    grade = "F";
+}
+
+document.write
