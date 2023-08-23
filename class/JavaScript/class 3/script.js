@@ -49,4 +49,4 @@
 
 // Example 5
 
-var perc = prompt();
+var perc = prompt("Enter Percentage");
