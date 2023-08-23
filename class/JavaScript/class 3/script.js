@@ -58,5 +58,5 @@ else if (perc >= 70 < 80){
     document.write("Your Grade is A")
 }
 else if (perc >=60 && < 70){
-    document.write
+    document.write("")
 }
