@@ -1,4 +1,4 @@
-// revision 1
+// Example 1
 
 // var num1 = 12;
 // var num2 = 10;
@@ -7,7 +7,7 @@
 
 // document.write(add)
 
-// revision 2
+// Example 2
 
 // var num1 = +prompt("Enter Number 1");
 // var num2 = +prompt("Enter Number 2");
