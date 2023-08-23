@@ -97,4 +97,4 @@ else {
     grade = "F";
 }
 
-document.write()
+document.write(grade)
