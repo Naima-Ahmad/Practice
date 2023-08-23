@@ -13,3 +13,4 @@
 // Practice 2
 
 var email = "naima@gmail.com";
+var pass = "1234";
