@@ -38,7 +38,7 @@
 
 // Example 4
 
-var num = "5";
+var num = 5;
 if(num == 5){
     document.write("Okay")
 }
