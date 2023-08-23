@@ -38,10 +38,15 @@
 
 // Example 4
 
-var num = 5;
-if(num == 5){
-    document.write("Okay")
-}
-else{
-    document.write("Not okat")
-}
+// var num = 5;
+// if(num == 5){
+//     document.write("Okay")
+// }
+// else{
+//     document.write("Not okat")
+// }
+
+
+// Example 5
+
+var perc = prompt();
