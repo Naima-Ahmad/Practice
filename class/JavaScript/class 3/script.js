@@ -12,4 +12,4 @@
 
 // Practice 2
 
-
+var email = "naima@gmail.com";
