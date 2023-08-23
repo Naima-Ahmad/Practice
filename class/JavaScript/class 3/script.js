@@ -49,8 +49,6 @@
 
 // Example 5
 
-// var perc = prompt("Enter Percentage");
-
 var perc = prompt("Enter Percentage")
 
 if(perc >= 80){
