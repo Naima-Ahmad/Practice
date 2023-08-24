@@ -45,7 +45,7 @@ else if (perc >= 80 && perc < 90) {
     document.write("Your grade is A")
 }
 
- 70 && perc < 80) {
+ 80) {
  
 
 
