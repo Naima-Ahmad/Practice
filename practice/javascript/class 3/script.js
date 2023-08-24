@@ -30,7 +30,7 @@
         
         
         
-        var prompt("Enter your Name");
+        ("Enter your Name");
         
         
         
