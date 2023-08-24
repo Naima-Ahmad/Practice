@@ -97,4 +97,4 @@ else {
     grade = "F";
 }
 
-document.write(grade)
+document.write(perc," ",grade)
