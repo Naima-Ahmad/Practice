@@ -48,5 +48,5 @@
      }
 
  else{
-//     document.write("Your grade is F")
+     document.write("Your grade is F")
 // }
