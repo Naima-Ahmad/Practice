@@ -44,7 +44,7 @@
      document.write("Your grade is C")
  }
  else if (perc >=50 && perc <60){
-//     document.write("Your grade is D")
+     document.write("Your grade is D")
 // }
 
 // else{
