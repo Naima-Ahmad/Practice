@@ -7,5 +7,17 @@ if(perc >= 90 && perc >101){
 }
 
 else if (perc >=80 && perc >90){
-    document.write("")
+    document.write("Your grade is A")
+}
+
+else if (perc >=70 && perc >80){
+    document.write("Your grade is B")
+}
+
+else if (perc >=60 && perc >70){
+    document.write("Your grade is C")
+}
+
+else{
+    
 }
