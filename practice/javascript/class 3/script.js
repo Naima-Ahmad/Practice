@@ -50,7 +50,7 @@ else if (perc >= 70 && perc < 80) {
 }
 
 else if (perc >= 60 && perc < 70) {
-}
+
 
 
 
