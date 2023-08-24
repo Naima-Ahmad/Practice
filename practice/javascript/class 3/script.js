@@ -57,7 +57,7 @@ else if (perc >= 50 && perc < 60) {
 }
 
 
-ite("Your grade is F")
+rade is F")
 
 
 
