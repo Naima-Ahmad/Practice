@@ -42,7 +42,7 @@ if (perc >= 90 && perc < 101) {
 }
 
 else if (perc >= 80 && perc < 90) {
-    ("Your grade is A")
+     grade is A")
 
 
 
