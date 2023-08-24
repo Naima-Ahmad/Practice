@@ -49,7 +49,7 @@ else if (perc >= 70 && perc < 80) {
     document.write("Your grade is B")
 }
 
-erc < 70) {
+{
 
 
 
