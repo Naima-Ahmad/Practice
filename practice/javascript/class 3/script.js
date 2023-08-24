@@ -7,5 +7,5 @@ if(perc >= 90 && perc >101){
 }
 
 else if (perc >=80 && perc >90){
-    document.write
+    document.write("")
 }
