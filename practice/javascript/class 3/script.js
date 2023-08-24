@@ -2,7 +2,7 @@
 
 var perc = prompt("Enter your Percentage");
 
-if(perc >= 90 && perc >101){
+if(perc >= 90 && perc <101){
     document.write("Your grade is A+")
 }
 
