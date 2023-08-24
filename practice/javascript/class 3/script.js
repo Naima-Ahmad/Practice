@@ -2,4 +2,4 @@
 
 var perc = prompt("Enter your Percentage");
 
-if()
+if(perc >= 90 && perc >101)
