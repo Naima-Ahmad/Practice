@@ -61,5 +61,3 @@ else {
 }
 
 
-var perc = (eng+urdu+isl+maths+sci) * 100;
-// var grade = ;
