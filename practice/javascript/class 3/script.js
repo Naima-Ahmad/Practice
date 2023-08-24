@@ -28,7 +28,7 @@
 
 // practice 2
 
-var perc = prompt();
+// var perc;
 
 if (perc >= 90 && perc < 101) {
     document.write("Your grade is A+")
@@ -52,3 +52,5 @@ else if (perc >= 50 && perc < 60) {
 else {
     document.write("Your grade is F")
 }
+
+var naam = prompt("Enter your Name");
