@@ -57,7 +57,7 @@ else if (perc >= 50 && perc < 60) {
 }
 
 
-rade is F")
+s F")
 
 
 
