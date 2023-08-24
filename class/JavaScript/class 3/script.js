@@ -73,7 +73,7 @@ var naam = prompt("Enter your Name");
 var eng = +prompt("Enter English Marks");
 var urdu = +prompt("Enter Urdu Marks");
 var pst = +prompt("Enter Pak.Studies Marks");
-var bio = +prompt("Enter Bio Marks")
+var bio = +prompt("Enter Bio Marks");
 var chem = +prompt("Enter Chemistry Marks")
 
 var total = eng + urdu + pst + bio + chem;
