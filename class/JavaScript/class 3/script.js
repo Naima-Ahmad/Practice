@@ -112,7 +112,12 @@ document.write(
 
         "<tr>"+
         
-        "<td>"+naam+"</td>"
+        "<td>"+naam+"</td>"+
+        "<td>"+eng+"</td>"+
+        "<td>"+urdu+"</td>"+
+        "<td>"+pst+"</td>"+
+        "<td>"+bio+"</td>"+
+        "<td>"+chem+"</td>"+
         
         +"</tr>"
     +"</table>"
