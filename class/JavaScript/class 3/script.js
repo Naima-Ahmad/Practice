@@ -118,6 +118,7 @@ document.write(
         "<td>"+pst+"</td>"+
         "<td>"+bio+"</td>"+
         "<td>"+chem+"</td>"+
+        "<td>"+perc+"</td>"+
         
         +"</tr>"
     +"</table>"
