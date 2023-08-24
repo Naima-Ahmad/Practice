@@ -24,3 +24,6 @@
 // else{
 //     document.write("Your grade is F")
 // }
+
+// practice 2
+
