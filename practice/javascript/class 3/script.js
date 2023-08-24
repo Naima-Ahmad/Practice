@@ -35,7 +35,7 @@
         var urdu = prompt("Enter Urdu Marks");
         var isl = prompt("Enter Islamiat Marks");
         var maths = prompt("Enter Maths Marks");
-        va
+        
 
 
 
