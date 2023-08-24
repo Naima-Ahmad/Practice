@@ -112,7 +112,7 @@ document.write(
 
         "<tr>"+
         
-        "<td>"++"</td>"
+        "<td>"+naam+"</td>"
         
         +"</tr>"
     +"</table>"
