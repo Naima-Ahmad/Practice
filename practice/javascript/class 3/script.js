@@ -31,7 +31,7 @@
         
         
         var naam = prompt("Enter your Name");
-         = prompt("Enter English Marks");
+        ("Enter English Marks");
         
         
         
