@@ -32,7 +32,7 @@
         
         var naam = prompt("Enter your Name");
         var eng = prompt("Enter English Marks");
-        var urdu = prompt("Enter Urdu Marks");
+        var("Enter Urdu Marks");
         
         
 
