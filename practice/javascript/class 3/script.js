@@ -38,7 +38,6 @@
         var sci = prompt("Enter science Marks");
 
 if (perc >= 90 && perc < 101) {
- is A+")
 
 
 
