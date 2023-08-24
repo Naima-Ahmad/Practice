@@ -119,7 +119,7 @@ document.write(
         "<td>"+bio+"</td>"+
         "<td>"+chem+"</td>"+
         "<td>"+perc+"</td>"+
-        "<td>"+perc+"</td>"+
+        "<td>"++"</td>"+
         
         +"</tr>"
     +"</table>"
