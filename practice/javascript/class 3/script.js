@@ -19,5 +19,5 @@ else if (perc >=60 && perc >70){
 }
 
 else{
-    document.write()
+    document.write("")
 }
