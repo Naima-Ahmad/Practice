@@ -97,4 +97,17 @@ else {
     grade = "F";
 }
 
-document.write()
+document.write(
+    "<table>"+
+        "<tr>"+
+            "<th>"+"NAME"+"</th>"+
+            "<th>"+"ENGLISH MARKS"+"</th>"+
+            "<th>"+"URDU MARKS"+"</th>"+
+            "<th>"+"PAK.STUDIES MARKS"+"</th>"+
+            "<th>"+"BIO MARKS"+"</th>"+
+            "<th>"+"CHEMISTRY MARKS"+"</th>"+
+            "<th>"+"PERCENTAGE"+"</th>"+
+            "<th>"+"GRADE"+"</th>"+
+        +"</tr>"
+    +"</table>"
+)
