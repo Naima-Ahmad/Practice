@@ -37,7 +37,7 @@
         var maths = prompt("Enter Maths Marks");
         var sci = prompt("Enter science Marks");
 
- && perc < 101) {
+
 
 
 
