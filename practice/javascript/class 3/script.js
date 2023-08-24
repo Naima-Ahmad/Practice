@@ -50,7 +50,6 @@ else if (perc >= 70 && perc < 80) {
 }
 
 else if (perc >= 60 && perc < 70) {
-    document.write("Your grade is C")
 }
 
 
