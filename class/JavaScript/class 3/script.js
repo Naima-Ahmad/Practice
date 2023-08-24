@@ -69,7 +69,7 @@
 
 // Example 6
 
-var name = prompt("Enter your Name");
+var naam = prompt("Enter your Name");
 var eng = +prompt("Enter English Marks")
 var urdu = +prompt("Enter Urdu Marks")
 var pst = +prompt("Enter Pak.Studies Marks")
@@ -98,7 +98,7 @@ else {
 }
 
 document.write(
-    "<table>"+
+    "<table border='1px'>"+
         "<tr>"+
             "<th>"+"NAME"+"</th>"+
             "<th>"+"ENGLISH MARKS"+"</th>"+
@@ -108,6 +108,12 @@ document.write(
             "<th>"+"CHEMISTRY MARKS"+"</th>"+
             "<th>"+"PERCENTAGE"+"</th>"+
             "<th>"+"GRADE"+"</th>"+
+        +"</tr>"+
+
+        "<tr>"+
+        
+        "<td>"++"</td>"
+        
         +"</tr>"
     +"</table>"
 )
