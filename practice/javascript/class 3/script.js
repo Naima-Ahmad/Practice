@@ -58,6 +58,6 @@ else if (perc >= 50 && perc < 60) {
 
 else {
     document.write("Your grade is F")
-}
+
 
 
