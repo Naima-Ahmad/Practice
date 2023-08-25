@@ -34,9 +34,10 @@
         var sci = +prompt("Enter Science Marks");
 
         var total = eng+urdu+maths+isl+sci;
-        var (perc = eng+urdu+maths+isl+sci) * 100;
+        var perc = (eng+urdu+maths+isl+sci) * 100;
 
-        document.write()
+        document.write(total )
+        document.write(perc)
         
         
         
