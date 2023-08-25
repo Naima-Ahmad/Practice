@@ -33,11 +33,11 @@
         var isl = +prompt("Enter Islamiat Marks");
         var sci = +prompt("Enter Science Marks");
 
-        var total = eng+urdu+maths+isl+sci;
+        var grade = ;
         var perc = (total / 500) * 100;
 
-        document.write(total )
-        document.write(perc)
+        document.write (grade);
+        document.write (perc);
         
         
         
