@@ -35,6 +35,8 @@
 
         var total = eng+urdu+maths+isl+sci;
         var (perc = eng+urdu+maths+isl+sci) * 100;
+
+        document.write()
         
         
         
