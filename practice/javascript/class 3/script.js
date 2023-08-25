@@ -32,6 +32,9 @@
         var maths = +prompt("Enter Maths Marks");
         var isl = +prompt("Enter Islamiat Marks");
         var sci = +prompt("Enter Science Marks");
+
+        var total = eng+urdu+maths+isl+sci;
+        var (perc = eng+urdu+maths+isl+sci);
         
         
         
