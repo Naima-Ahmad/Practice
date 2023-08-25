@@ -62,7 +62,7 @@
             document.write("F")
         }
 
-        document.write
+        document.write("")
         
         
 
