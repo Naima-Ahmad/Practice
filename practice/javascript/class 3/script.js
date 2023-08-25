@@ -59,7 +59,7 @@
             document.write("D")
         }
         else {
-            document.write("")
+            document.write("F")
         }
         
         
