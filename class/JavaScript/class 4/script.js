@@ -7,3 +7,4 @@
 
 // document.write(firstName+" "+middleName+" "+lastName)
 
+// Example 2
