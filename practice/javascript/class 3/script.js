@@ -38,6 +38,10 @@
 
         document.write (grade);
         document.write (perc);
+
+        if(perc >= 90 && perc < 101){
+            
+        }
         
         
         
