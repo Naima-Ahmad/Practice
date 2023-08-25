@@ -61,7 +61,8 @@
         else {
             document.write("F")
         }
-        
+
+        document.write
         
         
 
