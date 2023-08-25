@@ -63,6 +63,7 @@
         }
 
         document.write(perc)
+        document.write(grade)
         
         
 
