@@ -8,3 +8,5 @@
 // document.write(firstName+" "+middleName+" "+lastName)
 
 // Example 2
+
+var arr = ["Naima","Ahmad"];
