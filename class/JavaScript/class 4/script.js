@@ -9,4 +9,5 @@
 
 // Example 2
 
-var arr = ["Naima","Ahmad"];
+var arr = ["Naima","Ahmad","11 years old"];
+document.write(arr[1])
