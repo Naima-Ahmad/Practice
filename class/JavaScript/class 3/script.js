@@ -98,30 +98,30 @@ else {
     grade = "F";
 }
 
-document.write(
-    "<table border='1px'>" +
-    "<tr>" +
-    "<th>" + "NAME" + "</th>" +
-    "<th>" + "ENGLISH MARKS" + "</th>" +
-    "<th>" + "URDU MARKS" + "</th>" +
-    "<th>" + "PAK.STUDIES MARKS" + "</th>" +
-    "<th>" + "BIO MARKS" + "</th>" +
-    "<th>" + "CHEMISTRY MARKS" + "</th>" +
-    "<th>" + "PERCENTAGE" + "</th>" +
-    "<th>" + "GRADE" + "</th>" +
-    +"</tr>" +
+// document.write(
+//     "<table border='1px'>" +
+//     "<tr>" +
+//     "<th>" + "NAME" + "</th>" +
+//     "<th>" + "ENGLISH MARKS" + "</th>" +
+//     "<th>" + "URDU MARKS" + "</th>" +
+//     "<th>" + "PAK.STUDIES MARKS" + "</th>" +
+//     "<th>" + "BIO MARKS" + "</th>" +
+//     "<th>" + "CHEMISTRY MARKS" + "</th>" +
+//     "<th>" + "PERCENTAGE" + "</th>" +
+//     "<th>" + "GRADE" + "</th>" +
+//     +"</tr>" +
 
-    "<tr>" +
+//     "<tr>" +
 
-    "<td>" + naam + "</td>" +
-    "<td>" + eng + "</td>" +
-    "<td>" + urdu + "</td>" +
-    "<td>" + pst + "</td>" +
-    "<td>" + bio + "</td>" +
-    "<td>" + chem + "</td>" +
-    "<td>" + perc + "</td>" +
-    "<td>" + grade + "</td>" +
+//     "<td>" + naam + "</td>" +
+//     "<td>" + eng + "</td>" +
+//     "<td>" + urdu + "</td>" +
+//     "<td>" + pst + "</td>" +
+//     "<td>" + bio + "</td>" +
+//     "<td>" + chem + "</td>" +
+//     "<td>" + perc + "</td>" +
+//     "<td>" + grade + "</td>" +
 
-    +"</tr>"
-    + "</table>"
-)
+//     +"</tr>"
+//     + "</table>"
+// )
