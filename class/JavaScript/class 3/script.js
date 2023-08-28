@@ -77,7 +77,7 @@ var bio = +prompt("Enter Bio Marks");
 var chem = +prompt("Enter Chemistry Marks");
 var com = +prompt("Enter Computer Marks");
 
-var  = eng + urdu + pst + bio + chem + com;
+var obtained = eng + urdu + pst + bio + chem + com;
 var perc = (obtained / 500) * 100;
 var grade;
 
