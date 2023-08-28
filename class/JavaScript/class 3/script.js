@@ -81,47 +81,47 @@ var obtained = eng + urdu + pst + bio + chem + com;
 var perc = (obtained / 500) * 100;
 var grade;
 
-if (perc >= 80 && perc < 101){
-    grade = "A+";  
+if (perc >= 80 && perc < 101) {
+    grade = "A+";
 }
-else if (perc >= 70 && perc < 80){
-    grade = "A";    
+else if (perc >= 70 && perc < 80) {
+    grade = "A";
 }
-else if (perc >= 60 && perc < 70){
-    grade = "B";    
+else if (perc >= 60 && perc < 70) {
+    grade = "B";
 }
 
-else if (perc >= 60 && perc < 70){
-    grade = "C";    
+else if (perc >= 60 && perc < 70) {
+    grade = "C";
 }
 else {
     grade = "F";
 }
 
 document.write(
-    "<table border='1px'>"+
-        "<tr>"+
-            "<th>"+"NAME"+"</th>"+
-            "<th>"+"ENGLISH MARKS"+"</th>"+
-            "<th>"+"URDU MARKS"+"</th>"+
-            "<th>"+"PAK.STUDIES MARKS"+"</th>"+
-            "<th>"+"BIO MARKS"+"</th>"+
-            "<th>"+"CHEMISTRY MARKS"+"</th>"+
-            "<th>"+"PERCENTAGE"+"</th>"+
-            "<th>"+"GRADE"+"</th>"+
-        +"</tr>"+
+    "<table border='1px'>" +
+    "<tr>" +
+    "<th>" + "NAME" + "</th>" +
+    "<th>" + "ENGLISH MARKS" + "</th>" +
+    "<th>" + "URDU MARKS" + "</th>" +
+    "<th>" + "PAK.STUDIES MARKS" + "</th>" +
+    "<th>" + "BIO MARKS" + "</th>" +
+    "<th>" + "CHEMISTRY MARKS" + "</th>" +
+    "<th>" + "PERCENTAGE" + "</th>" +
+    "<th>" + "GRADE" + "</th>" +
+    +"</tr>" +
 
-        "<tr>"+
-        
-        "<td>"+naam+"</td>"+
-        "<td>"+eng+"</td>"+
-        "<td>"+urdu+"</td>"+
-        "<td>"+pst+"</td>"+
-        "<td>"+bio+"</td>"+
-        "<td>"+chem+"</td>"+
-        "<td>"+perc+"</td>"+
-        "<td>"+grade+"</td>"+
-        
-        +"</tr>"
-    +"</table>"
+    "<tr>" +
+
+    "<td>" + naam + "</td>" +
+    "<td>" + eng + "</td>" +
+    "<td>" + urdu + "</td>" +
+    "<td>" + pst + "</td>" +
+    "<td>" + bio + "</td>" +
+    "<td>" + chem + "</td>" +
+    "<td>" + perc + "</td>" +
+    "<td>" + grade + "</td>" +
+
+    +"</tr>"
+    + "</table>"
 )
