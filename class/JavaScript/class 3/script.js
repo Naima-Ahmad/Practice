@@ -78,7 +78,7 @@ var chem = +prompt("Enter Chemistry Marks");
 var com = +prompt("Enter Computer Marks");
 
 var total = eng + urdu + pst + bio + chem + com;
-var perc = (total / 500) * 100;
+var perc = (obtained / 500) * 100;
 var grade;
 
 if (perc >= 80 && perc < 101){
