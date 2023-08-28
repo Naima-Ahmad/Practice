@@ -70,12 +70,12 @@
 // Example 6
 
 var naam = prompt("Enter your Name");
-var eng = +prompt("Enter English Marks");
-var urdu = +prompt("Enter Urdu Marks");
-var pst = +prompt("Enter Pak.Studies Marks");
-var bio = +prompt("Enter Bio Marks");
-var chem = +prompt("Enter Chemistry Marks");
-var com = +prompt("Enter Computer Marks");
+// var eng = +prompt("Enter English Marks");
+// var urdu = +prompt("Enter Urdu Marks");
+// var pst = +prompt("Enter Pak.Studies Marks");
+// var bio = +prompt("Enter Bio Marks");
+// var chem = +prompt("Enter Chemistry Marks");
+// var com = +prompt("Enter Computer Marks");
 
 // var obtained = eng + urdu + pst + bio + chem + com;
 // var perc = (obtained / 500) * 100;
