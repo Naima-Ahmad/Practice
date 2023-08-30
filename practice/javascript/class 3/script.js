@@ -134,13 +134,13 @@
         "Urdu"
         +"</td>"+
 
-        "<th>"+
+        "<td>"+
         "Maths"
-        +"</th>"+
+        +"</td>"+
 
         "<th>"+
         "Islamiyat"
-        +"</th>"+
+        +"</td>"+
 
         "<th>"+
         "G.Science"
