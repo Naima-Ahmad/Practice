@@ -35,7 +35,7 @@
         var sci = +prompt("Enter Science Marks");
         
         var grade ;
-        var perc = (total / 500) * 100;
+        var perc = prompt("Enter Your Percentage");
         
         
         if(perc >= 90 && perc < 101){
@@ -60,7 +60,7 @@
         else {
             document.write("F")
         }
-        
+        document.write(perc)
         
         
         
