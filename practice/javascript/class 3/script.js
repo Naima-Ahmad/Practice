@@ -28,7 +28,7 @@
         
         // practice 2
        
-        var perc = prompt("Enter Your Percentage");
+        var perc = +prompt("Enter Your Percentage");
         
         
         if(perc >= 90 && perc < 101){
