@@ -62,8 +62,8 @@
         var isl = +prompt("Enter Your Islamiyat Marks");
         var sci = +prompt("Enter Your G.science Marks");
 
-        var obtain = nam+eng+urdu+math+isl+sci;
-        var perc = (obtain / 500) * 100;
+        var obtained = naam + eng + urdu + math + isl + sci;
+        var perc = (obtained / 500) * 100;
         var grade;
         
         if (perc >= 90 && perc <= 100){
@@ -90,8 +90,62 @@
             grade = "F";
         }
 
-        document.write("<table>"+
+        document.write("<table border='1'>"+
         "<tr>"+
+        "<th>"+
+        "Name"
+        +"</th>"+
+
+        "<th>"+
+        "English"
+        +"</th>"+
+
+        "<th>"+
+        "Urdu"
+        +"</th>"+
+
+        "<th>"+
+        "Maths"
+        +"</th>"+
+
+        "<th>"+
+        "Islamiyat"
+        +"</th>"+
+
+        "<th>"+
+        "G.Science"
+        +"</th>"+
+
+        +"</tr>"+
+
+
+
+        "<tr>"+
+        
+        "<td>"+
+        "Name"
+        +"</td>"+
+
+        "<td>"+
+        "English"
+        +"</td>"+
+
+        "<td>"+
+        "Urdu"
+        +"</td>"+
+
+        "<th>"+
+        "Maths"
+        +"</th>"+
+
+        "<th>"+
+        "Islamiyat"
+        +"</th>"+
+
+        "<th>"+
+        "G.Science"
+        +"</th>"+
+
         +"</tr>"
         +"</table>")
         
