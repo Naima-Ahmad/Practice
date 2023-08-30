@@ -95,14 +95,15 @@
         "<th>"+
         "Name"
         +"</th>"+
-        
-        "<th>"+
-        "Total"
-        +"</th>"+
+     
         
         "<th>"+
         "Total Marks"
         +"</th>"+
+
+        "<td>"+
+        "Obtained Marks"
+        +"</td>"+
         
         "<th>"+
         "English"
@@ -131,22 +132,24 @@
         "<tr>"+
         
         "<td>"+
-        "Name"
+        document.write(naam)
+        +"</td>"+
+        
+        
+        
+        "<td>"+
+        "500"
+        +"</td>"+
+       
+        "<td>"+
+        document.write(obtained)
         +"</td>"+
         
         "<td>"+
-        "Total"
-        +"</td>"+
         
-        "<td>"+
-        "Total Marks"
         +"</td>"+
-
-        "<td>"+
-        "English"
-        +"</td>"+
-        
-        "<td>"+
+        document.write(obtained)
+        +"<td>"+
         "Urdu"
         +"</td>"+
         
