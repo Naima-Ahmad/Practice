@@ -101,9 +101,9 @@
         "Total Marks"
         +"</th>"+
 
-        "<td>"+
+        "<th>"+
         "Obtained Marks"
-        +"</td>"+
+        +"</th>"+
         
         "<th>"+
         "English"
@@ -129,41 +129,8 @@
         
         
         
-        "<tr>"+
-        
-        "<td>"+
-        document.write(naam)
-        +"</td>"+
         
         
-        
-        "<td>"+
-        "500"
-        +"</td>"+
-       
-        "<td>"+
-        document.write(obtained)
-        +"</td>"+
-        
-        "<td>"+
-        
-        +"</td>"+
-        document.write(obtained)
-        +"<td>"+
-        "Urdu"
-        +"</td>"+
-        
-        "<td>"+
-        "Maths"
-        +"</td>"+
-        
-        "<td>"+
-        "Islamiyat"
-        +"</td>"+
-        
-        "<td>"+
-        "G.Science"
-        +"</td>"+
         
         +"</tr>"
         +"</table>")
