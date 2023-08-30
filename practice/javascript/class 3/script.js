@@ -61,8 +61,6 @@
             document.write("F")
         }
         
-        document.write(perc)
-        document.write(grade)
         
         
         
