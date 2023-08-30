@@ -66,6 +66,26 @@
         var perc = (obtain / 500) * 100;
         var grade;
         
+        if (perc >= 90 && perc <= 100){
+            grade = "A+";
+        }
+        
+        else if (perc >= 80 && perc <= 90){
+            grade = "A";
+        }
+        
+        else if (perc >= 70 && perc <= 80){
+            grade = "B";
+        }
+        
+        else if (perc >= 60 && perc <= 70){
+            grade = "C";
+        }
+        
+        else if (perc >= 50 && perc <= 60){
+            grade = "C";
+        }
+
         
         
         
