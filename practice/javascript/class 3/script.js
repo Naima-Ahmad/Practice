@@ -142,9 +142,9 @@
         "Islamiyat"
         +"</td>"+
 
-        "<th>"+
+        "<td>"+
         "G.Science"
-        +"</th>"+
+        +"</td>"+
 
         +"</tr>"
         +"</table>")
