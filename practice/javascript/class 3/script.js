@@ -138,7 +138,7 @@
         "Maths"
         +"</td>"+
 
-        "<th>"+
+        "<td>"+
         "Islamiyat"
         +"</td>"+
 
