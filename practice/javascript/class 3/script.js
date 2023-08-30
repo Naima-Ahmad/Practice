@@ -95,57 +95,73 @@
         "<th>"+
         "Name"
         +"</th>"+
-
+        
+        "<th>"+
+        "Total"
+        +"</th>"+
+        
+        "<th>"+
+        "Total Marks"
+        +"</th>"+
+        
         "<th>"+
         "English"
         +"</th>"+
-
+        
         "<th>"+
         "Urdu"
         +"</th>"+
-
+        
         "<th>"+
         "Maths"
         +"</th>"+
-
+        
         "<th>"+
         "Islamiyat"
         +"</th>"+
-
+        
         "<th>"+
         "G.Science"
         +"</th>"+
-
+        
         +"</tr>"+
-
-
-
+        
+        
+        
         "<tr>"+
         
         "<td>"+
         "Name"
         +"</td>"+
+        
+        "<th>"+
+        "Total"
+        +"</td>"+
+        
+        "<td>"+
+        "Total Marks"
+        +"</td>"+
 
         "<td>"+
         "English"
         +"</td>"+
-
+        
         "<td>"+
         "Urdu"
         +"</td>"+
-
+        
         "<td>"+
         "Maths"
         +"</td>"+
-
+        
         "<td>"+
         "Islamiyat"
         +"</td>"+
-
+        
         "<td>"+
         "G.Science"
         +"</td>"+
-
+        
         +"</tr>"
         +"</table>")
         
