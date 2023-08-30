@@ -51,9 +51,8 @@
             document.write("D")
         }
         else {
-            document.write("F")
+            document.write("You Are Fail")
         }
-        document.write(perc)
         
         
         
