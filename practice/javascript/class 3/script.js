@@ -90,7 +90,10 @@
             grade = "F";
         }
 
-        document.write()
+        document.write("<table>"+
+        "<tr>"+
+        +"</tr>"
+        +"</table>")
         
         
         
