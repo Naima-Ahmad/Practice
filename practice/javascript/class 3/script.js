@@ -27,6 +27,7 @@
         
         
         // practice 2
+        var naam = prompt("Enter Your Name");
         var eng = +prompt("Enter Enlish Marks");
         var urdu = +prompt("Enter Urdu Marks");
         var maths = +prompt("Enter Maths Marks");
