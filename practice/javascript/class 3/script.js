@@ -28,7 +28,7 @@
         
         // practice 2
        
-        var grade ;
+        // var grade ;
         var perc = prompt("Enter Your Percentage");
         
         
