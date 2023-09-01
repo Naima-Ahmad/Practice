@@ -40,4 +40,6 @@ var arr = ["Naima","Ahmad","11","8","50"];
 arr.pop()
 arr.pop()
 arr.pop()
+arr.pop()
+arr.pop()
 document.write(arr);
