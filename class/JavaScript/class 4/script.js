@@ -107,5 +107,5 @@
 // Example 14
 
 for(var i = 1; i<=10; i++){
-    document
+    document.w
 }
