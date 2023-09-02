@@ -100,6 +100,6 @@
 
 // Example 13
 
-var arr = ["Naima","Ahmad","11","8","50"];
-arr.splice(2,2,"Good Student")
-document.write(arr);
+// var arr = ["Naima","Ahmad","11","8","50"];
+// arr.splice(2,2,"Good Student")
+// document.write(arr);
