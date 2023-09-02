@@ -103,3 +103,7 @@
 // var arr = ["Naima","Ahmad","11","8","50"];
 // arr.splice(2,2,"Good Student")
 // document.write(arr);
+
+// Example 14
+
+for(var i = 1; i<=10; i++)
