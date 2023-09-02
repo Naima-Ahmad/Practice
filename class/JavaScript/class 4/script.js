@@ -93,9 +93,9 @@
 
 // Example 12
 
-var arr = ["Naima","Ahmad","11","8","50"];
-arr.splice(2,0,"Good Student")
-document.write(arr);
+// var arr = ["Naima","Ahmad","11","8","50"];
+// arr.splice(2,0,"Good Student")
+// document.write(arr);
 
 
 // Example 13
