@@ -78,6 +78,6 @@
 
 // Example 10
 
-var arr = ["Naima","Ahmad","11","8","50"];
-arr.unshift("I am Developer","My Name is")
-document.write(arr);
+// var arr = ["Naima","Ahmad","11","8","50"];
+// arr.unshift("I am Developer","My Name is")
+// document.write(arr);
