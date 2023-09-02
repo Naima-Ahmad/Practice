@@ -106,4 +106,6 @@
 
 // Example 14
 
-for(var i = 1; i<=10; i++)
+for(var i = 1; i<=10; i++){
+    
+}
