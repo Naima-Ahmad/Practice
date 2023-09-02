@@ -36,10 +36,48 @@
 
 
 // Example 6
+// var arr = ["Naima","Ahmad","11","8","50"];
+// arr.pop()
+// arr.pop()
+// arr.pop()
+// arr.pop()
+// arr.pop()
+// document.write(arr);
+
+
+
+// Example 7
+
+// var arr = ["Naima","Ahmad","11","8","50"];
+// arr.pop()
+// arr.pop()
+// arr.pop()
+// arr.pop()
+// arr.pop()
+
+// arr.push("I am a Web Developer")
+// document.write(arr);
+
+
+
+// Example 8
+
+// var arr = ["Naima","Ahmad","11","8","50"];
+// arr.shift()
+// document.write(arr);
+
+
+// Example 9
+
+// var arr = ["Naima","Ahmad","11","8","50"];
+// arr.shift()
+// arr.shift()
+// arr.shift()
+// document.write(arr);
+
+
+// Example 10
+
 var arr = ["Naima","Ahmad","11","8","50"];
-arr.pop()
-arr.pop()
-arr.pop()
-arr.pop()
-arr.pop()
+arr.unshift("I am Developer","My Name is")
 document.write(arr);
