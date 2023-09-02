@@ -81,3 +81,18 @@
 // var arr = ["Naima","Ahmad","11","8","50"];
 // arr.unshift("I am Developer","My Name is")
 // document.write(arr);
+
+
+
+// Example 11
+
+// var arr = ["Naima","Ahmad","11","8","50"];
+// arr.splice(2,2)
+// document.write(arr);
+
+
+// Example 12
+
+var arr = ["Naima","Ahmad","11","8","50"];
+arr.splice()
+document.write(arr);
