@@ -8,3 +8,5 @@
 
 
 // Example 2
+
+var num = 70.4;
