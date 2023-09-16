@@ -153,5 +153,5 @@
 // Example 11
 
 function sum (a,b){
-
+    return a+b;
 }
