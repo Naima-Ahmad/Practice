@@ -205,6 +205,8 @@ function abc() {
         return a / b;
     }
     else{
-        
+        return document.write("Enter a +, -, * or / operator")
     }
 }
+
+abc()
