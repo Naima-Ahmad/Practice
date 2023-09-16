@@ -39,5 +39,5 @@
 
 // Example 4b
 
-var num = 70.4;
+var num = 70.9;
 document.write(Math.ceil(num))
