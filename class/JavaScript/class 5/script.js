@@ -80,9 +80,10 @@
 
 
 
-// Game
+// Example 6
 
-var player1 = prompt("Enter Heads Name");
-var player2 = prompt("Enter Tails Name");
-var toss = Math.random() * 2;
-var convert = Math.floor(toss);
+// var player1 = prompt("Enter Heads Name");
+// var player2 = prompt("Enter Tails Name");
+// var toss = Math.random() * 2;
+// var convert = Math.floor(toss);
+// console.log(convert);
