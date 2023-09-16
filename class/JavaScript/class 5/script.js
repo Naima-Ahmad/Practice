@@ -15,5 +15,8 @@
 
 // Example 2b
 
-var num = 70.4;
-document.write(Math.round(num))
+// var num = 70.4;
+// document.write(Math.round(num))
+
+
+// Example 3a
