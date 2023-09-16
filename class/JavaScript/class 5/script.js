@@ -115,12 +115,23 @@
 
 // Example 9
 
- function abc(){
-     document.write("Hello World")
-     document.write("<br>")
- }
+//  function abc(){
+    //      document.write("Hello World")
+    //      document.write("<br>")
+    //  }
+    
+    //  abc()
+    //  abc()
+    //  abc()
+    //  abc()
+    
 
- abc()
- abc()
- abc()
- abc()
+// Example 10
+
+function tablegeneration(){
+    for(i=1, i <= 10; i++;){
+        document.write(2 + " X "+i+" = "+2*i+"<br>")
+    }
+}
+
+tablegeneration()
