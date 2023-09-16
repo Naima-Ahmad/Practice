@@ -99,3 +99,6 @@ var convert = Math.floor(toss);
 if(conver == 0){
     document.write(player1+" Heads wins")
 }
+else{
+    document.write
+}
