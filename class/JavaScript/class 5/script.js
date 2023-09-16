@@ -188,5 +188,6 @@
 // Example 14
 
 function abc (){
-    
+    var a = +prompt("Enter Number 1");
+    var a = +prompt("Enter Number 1");
 }
