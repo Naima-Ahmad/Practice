@@ -55,7 +55,7 @@
 // console.log(num);
 
 
-// Example 5b
+// Example 5c
 
 var num = Math.random() * 3;
 console.log(num);
