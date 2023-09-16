@@ -51,8 +51,8 @@
 
 // Example 5b
 
-var num = Math.random() * 2;
-console.log(num);
+// var num = Math.random() * 2;
+// console.log(num);
 
 
 // Example 5b
