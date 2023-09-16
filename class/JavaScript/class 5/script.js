@@ -63,5 +63,11 @@
 
 // Example 5d
 
- var num = Math.random() * 9;
+ var num = Math.random() * 10;
+ console.log(num);
+
+
+// Example 5e
+
+ var num = Math.random() * 10;
  console.log(num);
