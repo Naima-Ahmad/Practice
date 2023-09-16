@@ -192,5 +192,7 @@ function abc() {
     var b = +prompt("Enter Number 2");
     var c = prompt("Enter Operator");
 
-    if(c == "+")
+    if(c == "+"){
+        return a+b;
+    }
 }
