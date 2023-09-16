@@ -76,4 +76,4 @@
 // Example 5f
 
  var num = Math.random() * 16;
- console.log(num.toFixed(2));
+ console.log(num.toFixed(6));
