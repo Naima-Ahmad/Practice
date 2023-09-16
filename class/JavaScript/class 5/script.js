@@ -167,4 +167,5 @@ function sum (a,b){
 }
 
 var sum1 = sum(3,4);
+var sum2 = sum(3,4);
 document.write(sum1)
