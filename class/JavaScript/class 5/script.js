@@ -102,3 +102,9 @@
 // else{
 //     document.write(player2+" Tails wins")
 // }
+
+// Example 8
+
+function abc(){
+    document.write("Hello World")
+}
