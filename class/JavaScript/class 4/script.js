@@ -131,3 +131,8 @@
 
 // Example 16
 
+  var arr = ["Naima","Laiba","Hooriya","Haris","Hammad","Jawad","Hashir","Arsheya","Minnal","Hoorair"];
+
+  for(var i = 0; i < arr.length; i++){
+      document.write(arr[i]+"<br>")
+  }
