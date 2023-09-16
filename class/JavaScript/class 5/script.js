@@ -205,7 +205,7 @@ function abc() {
         return a / b;
     }
     
-    else if     
+    else if (c == "%")    
     
 }
 
