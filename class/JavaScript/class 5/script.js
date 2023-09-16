@@ -175,7 +175,7 @@
         
 // Example 13
 
- function sub (a,b){
+//  function sub (a,b){
     //  return a-b;
 //  }
 
