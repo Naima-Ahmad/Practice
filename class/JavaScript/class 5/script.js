@@ -97,5 +97,5 @@ var toss = Math.random() * 2;
 var convert = Math.floor(toss);
 
 if(conver == 0){
-    document.write()
+    document.write(player1)
 }
