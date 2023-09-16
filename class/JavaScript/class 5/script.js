@@ -184,3 +184,9 @@
 //  document.write(sum1);
 //  document.write("<br>");
 //  document.write(sum2);
+
+// Example 14
+
+function abc (){
+    
+}
