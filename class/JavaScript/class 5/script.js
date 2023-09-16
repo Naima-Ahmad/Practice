@@ -77,3 +77,9 @@
 
 //  var num = Math.random() * 16;
 //  console.log(num.toFixed(6));
+
+
+
+// Game
+
+var player1 = prompt();
