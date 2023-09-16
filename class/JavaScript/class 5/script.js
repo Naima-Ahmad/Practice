@@ -147,4 +147,4 @@
 
  tablegeneration()
 document.write("<br>")
-tablegeneration()
+// tablegeneration()
