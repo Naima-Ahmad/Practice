@@ -205,7 +205,7 @@ function abc() {
         return a / b;
     }
     
-        ("Enter a +, -, * or / operator")
+         / operator")
     
 }
 
