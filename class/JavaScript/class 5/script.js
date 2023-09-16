@@ -7,6 +7,13 @@
 // }
 
 
-// Example 2
+// Example 2a
+
+// var num = 70.8;
+// document.write(Math.round(num))
+
+
+// Example 2b
 
 var num = 70.4;
+document.write(Math.round(num))
