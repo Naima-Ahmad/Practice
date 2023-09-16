@@ -152,12 +152,12 @@
         
 // Example 11
 
-function sum (a,b){
-    return a+b;
-}
+// function sum (a,b){
+//     return a+b;
+// }
 
-var sum1 = sum(3,4);
-document.write(sum1)
+// var sum1 = sum(3,4);
+// document.write(sum1)
         
         
 // Example 12
