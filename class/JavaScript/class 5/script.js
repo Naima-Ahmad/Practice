@@ -116,15 +116,15 @@
 // Example 9
 
 //  function abc(){
-    //      document.write("Hello World")
-    //      document.write("<br>")
-    //  }
-    
-    //  abc()
-    //  abc()
-    //  abc()
-    //  abc()
-    
+//      document.write("Hello World")
+//      document.write("<br>")
+//  }
+
+//  abc()
+//  abc()
+//  abc()
+//  abc()
+
 
 // Example 10
 
@@ -135,21 +135,21 @@
 // }
 
 // tablegeneration()
-    
+
 
 // Example 11
 
 //  function tablegeneration(){
-    //  for(i=1, i <= 10; i++;){
-        //  document.write(2 + " X "+i+" = "+2*i+"<br>")
-        //  }
-        //  }
-        
-        //  tablegeneration()
-        // document.write("<br>")
-        // tablegeneration()
-        
-        
+//  for(i=1, i <= 10; i++;){
+//  document.write(2 + " X "+i+" = "+2*i+"<br>")
+//  }
+//  }
+
+//  tablegeneration()
+// document.write("<br>")
+// tablegeneration()
+
+
 // Example 11
 
 // function sum (a,b){
@@ -158,8 +158,8 @@
 
 // var sum1 = sum(3,4);
 // document.write(sum1)
-        
-        
+
+
 // Example 12
 
 // function sum (a,b){
@@ -171,12 +171,12 @@
 // document.write(sum1)
 // document.write("<br>")
 // document.write(sum2)
-        
-        
+
+
 // Example 13
 
 //  function sub (a,b){
-    //  return a-b;
+//  return a-b;
 //  }
 
 //  var sum1 = sub(10,5);
@@ -187,7 +187,7 @@
 
 // Example 14
 
-function abc (){
+function abc() {
     var a = +prompt("Enter Number 1");
     var b = +prompt("Enter Number 2");
     var c = prompt("Enter Operator");
