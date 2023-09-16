@@ -204,7 +204,7 @@ function abc() {
     else if (c == "/"){
         return a / b;
     }
-    {
+    
         return document.write("Enter a +, -, * or / operator")
     
 }
