@@ -20,3 +20,12 @@
 
 
 // Example 3a
+
+// var num = 70.4;
+// document.write(Math.floor(num))
+
+
+// Example 3b
+
+var num = 70.4;
+document.write(Math.floor(num))
