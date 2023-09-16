@@ -46,3 +46,4 @@ document.write(Math.ceil(num))
 // Example 5a
 
 var num = Math.random();
+console.log()
