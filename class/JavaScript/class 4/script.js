@@ -118,3 +118,12 @@
 // for(var i = 1; i<=4; i++){
 //     document.write(arr[i]+"<br>")
 // }
+
+
+// Example 15
+
+ var arr = ["Naima","Laiba","Hooriya","Haris"];
+
+ for(var i = 1; i < arr.length; i++){
+     document.write(arr[i]+"<br>")
+ }
