@@ -146,5 +146,5 @@
  }
 
  tablegeneration()
-document.write("<br>")
+// document.write("<br>")
 // tablegeneration()
