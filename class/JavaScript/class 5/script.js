@@ -10,40 +10,52 @@
 // Example 2a
 
 // var num = 70.8;
-// document.write(Math.round(num))
+// document.write(Math.round(num));
 
 
 // Example 2b
 
 // var num = 70.4;
-// document.write(Math.round(num))
+// document.write(Math.round(num));
 
 
 // Example 3a
 
 // var num = 70.4;
-// document.write(Math.floor(num))
+// document.write(Math.floor(num));
 
 
 // Example 3b
 
 // var num = 70.8;
-// document.write(Math.floor(num))
+// document.write(Math.floor(num));
 
 
 // Example 4a
 
 // var num = 70.4;
-// document.write(Math.ceil(num))
+// document.write(Math.ceil(num));;
 
 
 // Example 4b
 
 // var num = 70.9;
-// document.write(Math.ceil(num))
+// document.write(Math.ceil(num));
 
 
 // Example 5a
 
 var num = Math.random();
-console.log(num)
+console.log(num);
+
+
+// Example 5b
+
+var num = Math.random() * 2;
+console.log(num);
+
+
+// Example 5b
+
+var num = Math.random() * 3;
+console.log(num);
