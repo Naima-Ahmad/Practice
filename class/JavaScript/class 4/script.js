@@ -124,6 +124,6 @@
 
  var arr = ["Naima","Laiba","Hooriya","Haris"];
 
- for(var i = 1; i < arr.length; i++){
+ for(var i = 0; i < arr.length; i++){
      document.write(arr[i]+"<br>")
  }
