@@ -27,5 +27,5 @@
 
 // Example 3b
 
-var num = 70.4;
+var num = 70.8;
 document.write(Math.floor(num))
