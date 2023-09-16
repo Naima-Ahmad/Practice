@@ -117,6 +117,10 @@
 
  function abc(){
      document.write("Hello World")
+     document.write("<br>")
  }
 
+ abc()
+ abc()
+ abc()
  abc()
