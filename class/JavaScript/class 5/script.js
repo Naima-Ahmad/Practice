@@ -63,5 +63,5 @@
 
 // Example 5d
 
- var num = Math.random() * 3;
+ var num = Math.random() * 9;
  console.log(num);
