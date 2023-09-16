@@ -34,4 +34,4 @@
 // Example 4a
 
 var num = 70.4;
-document.write(Math.floor(num))
+document.write(Math.ceil(num))
