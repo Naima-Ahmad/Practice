@@ -128,3 +128,6 @@
 //      document.write(arr[i]+"<br>")
 //  }
 
+
+// Example 16
+
