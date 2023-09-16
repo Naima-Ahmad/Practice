@@ -103,10 +103,20 @@
 //     document.write(player2+" Tails wins")
 // }
 
+
 // Example 8
 
-function abc(){
-    document.write("Hello World")
-}
+// function abc(){
+//     document.write("Hello World")
+// }
 
-abc()
+// abc()
+
+
+// Example 9
+
+ function abc(){
+     document.write("Hello World")
+ }
+
+ abc()
