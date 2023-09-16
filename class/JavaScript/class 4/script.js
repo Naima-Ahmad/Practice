@@ -109,3 +109,12 @@
 // for(var i = 1; i<=10; i++){
 //     document.write(i+"<br>")
 // }
+
+
+// Example 14
+
+var arr = ["Naima","Laiba","Hooriya","Haris"];
+
+for(var i = 1; i<=4; i++){
+    document.write(arr[i]+"<br>")
+}
