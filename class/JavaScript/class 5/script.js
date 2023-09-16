@@ -147,3 +147,4 @@
 
  tablegeneration()
 document.write("<br>")
+table
