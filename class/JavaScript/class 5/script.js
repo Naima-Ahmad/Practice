@@ -108,3 +108,5 @@
 function abc(){
     document.write("Hello World")
 }
+
+abc()
