@@ -122,8 +122,9 @@
 
 // Example 15
 
- var arr = ["Naima","Laiba","Hooriya","Haris"];
+//  var arr = ["Naima","Laiba","Hooriya","Haris"];
 
- for(var i = 0; i < arr.length; i++){
-     document.write(arr[i]+"<br>")
- }
+//  for(var i = 0; i < arr.length; i++){
+//      document.write(arr[i]+"<br>")
+//  }
+
