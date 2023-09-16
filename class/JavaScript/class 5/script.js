@@ -179,7 +179,7 @@
      return a-b;
  }
 
- var sum1 = sub(3,4);
+ var sum1 = sub(10,5);
  var sum2 = sub(90,67);
  document.write(sum1);
  document.write("<br>");
