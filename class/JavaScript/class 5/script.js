@@ -206,7 +206,7 @@ function abc() {
     }
     
     else if (c == "%"){
-        return a
+        return a %
     }    
     
 }
