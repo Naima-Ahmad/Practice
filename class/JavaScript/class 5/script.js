@@ -69,5 +69,5 @@
 
 // Example 5e
 
- var num = Math.random() * 10;
- console.log(num);
+ var num = Math.random() * 16;
+ console.log(num.toFixed(2));
