@@ -205,7 +205,7 @@ function abc() {
         return a / b;
     }
     
-        .write("Enter a +, -, * or / operator")
+        ("Enter a +, -, * or / operator")
     
 }
 
