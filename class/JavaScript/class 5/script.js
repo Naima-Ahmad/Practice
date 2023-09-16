@@ -183,4 +183,4 @@
  var sum2 = sum(90,67);
  document.write(sum1)
  document.write("<br>")
-// document.write(sum2)
+ document.write(sum2)
