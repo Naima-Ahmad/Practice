@@ -162,12 +162,12 @@
         
 // Example 12
 
-function sum (a,b){
-    return a+b;
-}
+// function sum (a,b){
+//     return a+b;
+// }
 
-var sum1 = sum(3,4);
-var sum2 = sum(90,67);
-document.write(sum1)
-document.write("<br>")
-document.write(sum2)
+// var sum1 = sum(3,4);
+// var sum2 = sum(90,67);
+// document.write(sum1)
+// document.write("<br>")
+// document.write(sum2)
