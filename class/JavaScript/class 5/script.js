@@ -82,5 +82,5 @@
 
 // Game
 
-var player1 = prompt("Enter heads Name");
-var player1 = prompt("Enter heads Name");
+var player1 = prompt("Enter Heads Name");
+var player1 = prompt("Enter Tails Name");
