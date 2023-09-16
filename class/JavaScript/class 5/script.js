@@ -139,7 +139,7 @@
 
 // Example 11
 
-// function tablegeneration(){
+ function tablegeneration(){
      for(i=1, i <= 10; i++;){
          document.write(2 + " X "+i+" = "+2*i+"<br>")
      }
