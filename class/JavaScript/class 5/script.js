@@ -100,5 +100,5 @@ if(conver == 0){
     document.write(player1+" Heads wins")
 }
 else{
-    document.write()
+    document.write(player2+" Tails wins")
 }
