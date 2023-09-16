@@ -195,5 +195,7 @@ function abc() {
     if(c == "+"){
         return a+b;
     }
-    else if (c == "-")
+    else if (c == "-"){
+        return a-b;
+    }
 }
