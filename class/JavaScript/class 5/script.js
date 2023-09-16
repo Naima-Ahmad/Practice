@@ -45,8 +45,8 @@
 
 // Example 5a
 
-var num = Math.random();
-console.log(num);
+// var num = Math.random();
+// console.log(num);
 
 
 // Example 5b
