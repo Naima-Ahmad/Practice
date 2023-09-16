@@ -190,5 +190,5 @@
 function abc (){
     var a = +prompt("Enter Number 1");
     var b = +prompt("Enter Number 2");
-    var b = prompt("Enter Operator");
+    var c = prompt("Enter Operator");
 }
