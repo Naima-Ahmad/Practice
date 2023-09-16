@@ -152,6 +152,6 @@
         
 // Example 11
 
-function sum (){
-    
+function sum (a,b){
+
 }
