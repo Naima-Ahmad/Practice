@@ -180,7 +180,7 @@
  }
 
  var sum1 = sub(10,5);
- var sum2 = sub(1000,363);
+//  var sum2 = sub(1000,363);
 //  document.write(sum1);
 //  document.write("<br>");
 //  document.write(sum2);
