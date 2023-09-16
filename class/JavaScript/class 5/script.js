@@ -35,3 +35,9 @@
 
 // var num = 70.4;
 // document.write(Math.ceil(num))
+
+
+// Example 4b
+
+var num = 70.4;
+document.write(Math.ceil(num))
