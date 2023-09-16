@@ -146,4 +146,4 @@
  }
 
  tablegeneration()
-document
+document.write
