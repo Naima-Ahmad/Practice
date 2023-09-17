@@ -10,3 +10,5 @@
 //     document.getElementById("abc").innerHTML = " Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quae, natus similique ipsa odit beatae blanditiis"
 //     document.getElementById("read").style.display = "none"
 //}
+
+// Example 3
