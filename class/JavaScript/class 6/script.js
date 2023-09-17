@@ -29,3 +29,7 @@ function eq(){
     var a = document.getElementById("inpt");
     a.value = eval(a.value);
 }
+
+function clrall(){
+    
+}
