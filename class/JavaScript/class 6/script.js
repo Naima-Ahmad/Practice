@@ -6,6 +6,3 @@ function show() {
 
 // Example 2
 
-function abc(){
-    document.getElementById("abcshow").innerHTML = "hello world"
-}
