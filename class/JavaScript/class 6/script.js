@@ -22,5 +22,5 @@
 // calculator //
 
 function sum(a){
-    alert(a)
+    document.getElementById("inpt").value = a;
 }
