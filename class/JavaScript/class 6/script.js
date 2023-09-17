@@ -31,5 +31,5 @@ function eq(){
 }
 
 function clrall(){
-    
+     document.getElementById("inpt").value = " "
 }
