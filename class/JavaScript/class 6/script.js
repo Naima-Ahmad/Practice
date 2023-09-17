@@ -6,3 +6,6 @@ function show(){
 
 // Example 2
 
+function showdata(){
+    document.getElementById("")
+}
