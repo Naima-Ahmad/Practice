@@ -14,5 +14,5 @@
 // Example 3
 
 function abcd(){
-    document.getElementById("inp")
+    document.getElementById("inp").value
 }
