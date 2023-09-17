@@ -14,6 +14,7 @@
 // Example 3
 
 function abcd(){
-  var a = document.getElementById("inp").value;
+  var a = document.getElementById("inp");
   alert (a)
+  a.value = ""
 }
