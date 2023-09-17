@@ -6,4 +6,6 @@ function show() {
 
 // Example 2
 
-function showData()
+function showData(){
+    
+}
