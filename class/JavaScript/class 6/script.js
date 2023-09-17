@@ -1,3 +1,3 @@
 function show(){
-    document.getElementById("p")
+    document.getElementById("p").innerHTML = ""
 }
