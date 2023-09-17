@@ -7,5 +7,5 @@ function show() {
 // Example 2
 
 function showData(){
-    document.getElementById("abc")
+    document.getElementById("abc").innerHTML = ""
 }
