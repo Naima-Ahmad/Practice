@@ -26,5 +26,5 @@ function sum(a){
 }
 
 function eq(){
-    document.getElementById("inpt")
+    var a = document.getElementById("inpt");
 }
