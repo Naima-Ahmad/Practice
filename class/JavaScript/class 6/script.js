@@ -36,5 +36,6 @@ function clrall(){
 
 
 function clr(){
-   document.getElementById("inpt").value.splice()
+  var a = document.getElementById("inpt")
+  a.value = a.value.slice(0,-1)
 }
