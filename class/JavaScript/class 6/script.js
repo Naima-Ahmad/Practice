@@ -22,5 +22,9 @@
 // calculator //
 
 function sum(a){
-    document.getElementById("inpt").value = a
+    document.getElementById("inpt").value += a
+}
+
+function eq(){
+    
 }
