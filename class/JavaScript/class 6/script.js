@@ -21,6 +21,6 @@
 
 // calculator //
 
-function sum(){
-    alert()
+function sum(a){
+    alert(a)
 }
