@@ -1,3 +1,3 @@
 function show(){
-    document.getElementById()
+    document.getElementById("p")
 }
