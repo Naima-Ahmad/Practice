@@ -22,5 +22,5 @@
 // calculator //
 
 function sum(){
-    
+    alert
 }
