@@ -33,3 +33,8 @@ function eq(){
 function clrall(){
      document.getElementById("inpt").value = " "
 }
+
+
+function clr(){
+   document.getElementById("inpt").value.splice()
+}
