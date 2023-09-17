@@ -13,8 +13,12 @@
 
 // Example 3
 
-function abcd(){
-  var a = document.getElementById("inp");
-  alert (a)
-  a.value = ""
-}
+// function abcd(){
+//   var a = document.getElementById("inp");
+//   alert (a.value)
+//   a.value = ""
+// }
+
+// calculator //
+
+
