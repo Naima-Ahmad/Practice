@@ -6,7 +6,7 @@ function show() {
 
 // Example 2
 
-function showData(){
-    document.getElementById("abc").innerHTML = " Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quae, natus similique ipsa odit beatae blanditiis"
-    document.getElementById("read").style.display = "none"
-}
+// function showData(){
+//     document.getElementById("abc").innerHTML = " Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quae, natus similique ipsa odit beatae blanditiis"
+//     document.getElementById("read").style.display = "none"
+//}
