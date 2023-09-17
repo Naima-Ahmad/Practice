@@ -15,4 +15,5 @@
 
 function abcd(){
   var a = document.getElementById("inp").value;
+  alert (a)
 }
