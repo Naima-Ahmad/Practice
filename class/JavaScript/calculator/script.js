@@ -9,9 +9,12 @@ function abc(a){
  }
 
  function clrall(){
-    var a = document.getElementById("inpt")
+    var a = document.getElementById("inpt").value = " ";
  }
 
+ function clr(){
+    
+ }
    
 
    
