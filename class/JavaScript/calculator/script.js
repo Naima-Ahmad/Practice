@@ -3,7 +3,7 @@ function abc(a){
 }
 
 
-// function eql(){
+ function eql(){
  var a = document.getElementById("inpt");
  a.value = eval(a.value);
  }
