@@ -5,7 +5,7 @@ function abc(a){
 
 // function eql(){
 // var a = document.getElementById("inpt");
-// a.value = eval(a.value);
+ a.value = eval(a.value);
  }
 
    
