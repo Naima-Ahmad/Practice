@@ -1,3 +1,2 @@
-function typ(){
-    document.getElementById(int).value = 
+function abc(a){
 }
