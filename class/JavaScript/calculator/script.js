@@ -1,3 +1,3 @@
 function typ(){
-    document.getElementById(int).value = ;
+    document.getElementById(int).value = 
 }
