@@ -10,10 +10,12 @@ function abc(a){
 
  function clrall(){
     var a = document.getElementById("inpt").value = " ";
- }
+}
 
- function clr(){
- }
+function clr(){
+    var a = document.getElementById("inpt")
+    a.value = a.value.slice(0,-1);
+}
    
 
    
