@@ -8,7 +8,7 @@ function abc(a){
  }
 
  function clrall(){
-var a = document.getElementById("inpt").value = " ";
+    var a = document.getElementById("inpt").value = " ";
 }
 
 function clr(){
