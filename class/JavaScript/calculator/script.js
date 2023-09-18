@@ -8,6 +8,8 @@ function abc(a){
  a.value = eval(a.value);
  }
 
+ function clrall()
+
    
 
    
