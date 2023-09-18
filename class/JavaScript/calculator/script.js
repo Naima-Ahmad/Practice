@@ -8,7 +8,9 @@ function abc(a){
  a.value = eval(a.value);
  }
 
- function clrall()
+ function clrall(){
+    var a = document.getElementById("inpt")
+ }
 
    
 
