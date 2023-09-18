@@ -1,3 +1,3 @@
 function typ(){
-    
+    document.getElementById()
 }
