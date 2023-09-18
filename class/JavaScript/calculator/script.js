@@ -13,7 +13,6 @@ function abc(a){
  }
 
  function clr(){
-    
  }
    
 
