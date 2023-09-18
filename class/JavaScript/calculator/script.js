@@ -4,6 +4,7 @@ function abc(a){
 
 
 function eql(){
-    var a = documnet.getElementById("inpt")
-}   
+    var a = documnet.getElementById("inpt");
+    a.value = eval("inpt");
+}
   
