@@ -92,5 +92,5 @@
 
 // Example 14
 
-var num1 = 4;
+var num1 = 5;
 var num2 = 8;
