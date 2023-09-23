@@ -94,6 +94,3 @@
 
 var num1 = 4;
 var num2 = 8;
-var num3 = 6;
-
-document.write(num3+num2-num1)
