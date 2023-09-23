@@ -11,3 +11,8 @@
 // Example 3
 
 document.write(2+2)
+
+
+// Example 3
+
+document.write(2+2)
