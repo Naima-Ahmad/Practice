@@ -38,3 +38,5 @@
 
 
 // Example 7
+
+var num1 = 22;
