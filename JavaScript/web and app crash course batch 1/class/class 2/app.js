@@ -63,7 +63,10 @@
 
 // Example 9
 
-var num1 = 22;
-var num2 = 34;
+// var num1 = 22;
+// var num2 = 34;
 
-document.write(num1%num2)
+// document.write(num1%num2)
+
+
+// Example 11
