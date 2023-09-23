@@ -20,4 +20,9 @@
 
 // Example 6
 
+// document.write("2"+Naima);
+
+
+// Example 7
+
 document.write("2"+Naima);
