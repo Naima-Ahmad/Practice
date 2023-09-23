@@ -5,4 +5,9 @@
 
 // Example 2
 
-alert("Hello Naima Ahmad")
+// alert("Hello Naima Ahmad")
+
+
+// Example 3
+
+console.log("Hello Naima Ahmad")
