@@ -57,5 +57,11 @@
 
 // Example 12
 
+// var firstname = "Naima Ahmad";
+// console.log(firstname)
+
+
+// Example 13
+
 var firstname = "Naima Ahmad";
 console.log(firstname)
