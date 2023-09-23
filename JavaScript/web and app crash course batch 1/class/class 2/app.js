@@ -29,9 +29,12 @@
 // document.write(1stName+" "+lastName)
 
 
-// Example 5
+// Example 6
 
-var name1 = "Naima";
-var lastName = "Ahmad";
+// var name1 = "Naima";
+// var lastName = "Ahmad";
 
-document.write(name1+" "+lastName)
+// document.write(name1+" "+lastName)
+
+
+// Example
