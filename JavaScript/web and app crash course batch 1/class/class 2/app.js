@@ -39,6 +39,14 @@
 
 // Example 7
 
+// var num1 = 22;
+// var num2 = 34;
+
+// document.write(num1+num2)
+
+
+// Example 7
+
 var num1 = 22;
 var num2 = 34;
 
