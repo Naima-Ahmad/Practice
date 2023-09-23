@@ -75,7 +75,12 @@
 
 // Example 14
 
-var firstName = "Naima";
-var lastName = "Ahmad";
+// var firstName = "Naima";
+// var lastName = "Ahmad";
 
-document.write()
+// document.write(firstName+" "+lastName)
+
+
+// Example 14
+
+var num1 = 4;
