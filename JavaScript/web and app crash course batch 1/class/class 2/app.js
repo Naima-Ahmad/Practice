@@ -61,7 +61,7 @@
 // document.write(num1/num2)
 
 
-// Example 9
+// Example 10
 
 // var num1 = 22;
 // var num2 = 34;
