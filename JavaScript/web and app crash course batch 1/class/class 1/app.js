@@ -63,5 +63,11 @@
 
 // Example 13
 
-var firstname = "Naima Ahmad";
-console.log(firstname)
+// var 123 = "Naima Ahmad";
+// document.write(123)
+
+
+// Example 13
+
+var 123 = "Naima Ahmad";
+document.write(123)
