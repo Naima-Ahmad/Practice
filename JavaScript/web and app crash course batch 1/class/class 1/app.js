@@ -87,4 +87,4 @@ var num1 = 4;
 var num2 = 8;
 var num3 = 6;
 
-document.write()
+document.write(num3)
