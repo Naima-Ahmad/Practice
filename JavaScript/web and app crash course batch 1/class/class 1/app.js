@@ -58,4 +58,4 @@
 // Example 12
 
 var firstname = "Naima Ahmad";
-alert(firstname)
+console.log(firstname)
