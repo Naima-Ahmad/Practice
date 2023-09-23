@@ -42,4 +42,4 @@
 var num1 = 22;
 var num2 = 34;
 
-document.write()
+document.write(num1+num2)
