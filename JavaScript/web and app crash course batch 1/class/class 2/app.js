@@ -37,4 +37,4 @@
 // document.write(name1+" "+lastName)
 
 
-// Example
+// Example 7
