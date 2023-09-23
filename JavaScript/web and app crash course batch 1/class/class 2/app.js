@@ -16,6 +16,6 @@
 // Example 4
 
 var firstName = "Naima";
-var firstName = "Ahmad";
+var lastName = "Ahmad";
 
-document.write(firstName+" "+)
+document.write(firstName+" "+lastName)
