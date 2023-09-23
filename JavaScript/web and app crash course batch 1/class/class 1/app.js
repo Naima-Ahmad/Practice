@@ -51,8 +51,8 @@
 
 // Example 12
 
-var firstname = "Naima Ahmad";
-alert(firstname)
+// var firstname = "Naima Ahmad";
+// alert(firstname)
 
 
 // Example 12
