@@ -99,4 +99,4 @@ var num4 = 20;
 
 var total = num1 + num2 * num3 - num4;
 
-document.write()
+document.write(total)
