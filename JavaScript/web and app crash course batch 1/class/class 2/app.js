@@ -45,7 +45,7 @@
 // document.write(num1+num2)
 
 
-// Example 7
+// Example 8
 
 var num1 = 22;
 var num2 = 34;
