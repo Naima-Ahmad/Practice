@@ -97,4 +97,4 @@ var num2 = 10;
 var num3 = 15;
 var num3 = 20;
 
-var total = num1;
+var total = num1 + num2;
