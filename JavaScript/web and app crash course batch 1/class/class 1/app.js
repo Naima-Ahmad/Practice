@@ -3,6 +3,6 @@
 // document.write("Hello World")
 
 
-// Example 1
+// Example 2
 
 // document.write(123445)
