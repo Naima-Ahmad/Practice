@@ -6,3 +6,8 @@
 // Example 2
 
 // document.write(123445)
+
+
+// Example 3
+
+// document.write(123445)
