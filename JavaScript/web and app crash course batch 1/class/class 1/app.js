@@ -1,6 +1,6 @@
 // Example 1
 
-document.write("Hello World")
+// document.write("Hello World")
 
 
 // Example 1
