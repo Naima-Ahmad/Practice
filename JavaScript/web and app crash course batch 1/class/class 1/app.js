@@ -40,4 +40,9 @@
 
 // Example 10
 
-console.log("Hello Naima Ahmad")
+// console.log("Hello Naima Ahmad")
+
+
+// Example 11
+
+var firstname = "Naima Ahmad";
