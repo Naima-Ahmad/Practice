@@ -102,7 +102,7 @@
 // document.write(total)
 
 
-    // Example 15
+// Example 15
 
 // document.write("Hello"+"<br>"+"World")
 
