@@ -104,4 +104,4 @@
 
 // Example 15
 
-document.write("Hello"+"World")
+document.write("Hello"+"<br>"+"World")
