@@ -105,3 +105,6 @@
 // Example 15
 
 // document.write("Hello"+"<br>"+"World")
+
+
+// Example 14
