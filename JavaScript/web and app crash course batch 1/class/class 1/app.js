@@ -52,10 +52,10 @@
 // Example 12
 
 // var firstname = "Naima Ahmad";
-    // alert(firstname)
+// alert(firstname)
 
 
-    // Example 12
+// Example 12
 
 // var firstname = "Naima Ahmad";
 // console.log(firstname)
