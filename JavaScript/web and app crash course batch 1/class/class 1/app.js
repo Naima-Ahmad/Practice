@@ -1,18 +1,18 @@
 // Example 1
 
-// document.write("Hello World")
+// document.write("Hello World");
 
 
 // Example 2
 
-// document.write(123445)
+// document.write(123445);
 
 
 // Example 3
 
-// document.write(2+2)
+// document.write(2+2);
 
 
 // Example 3
 
-document.write(2+2)
+document.write("2"+"2");
