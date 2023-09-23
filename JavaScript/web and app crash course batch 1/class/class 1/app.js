@@ -104,4 +104,4 @@
 
 // Example 15
 
-document.write("")
+document.write("Hello")
