@@ -15,6 +15,14 @@
 
 // Example 4
 
+// var firstName = "Naima";
+// var lastName = "Ahmad";
+
+// document.write(firstName+" "+lastName)
+
+
+// Example 4
+
 var firstName = "Naima";
 var lastName = "Ahmad";
 
