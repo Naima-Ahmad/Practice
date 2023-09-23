@@ -26,12 +26,12 @@
 // var 1stName = "Naima";
 // var lastName = "Ahmad";
 
-// document.write(firstName+" "+lastName)
+// document.write(1stName+" "+lastName)
 
 
 // Example 5
 
-var 1stName = "Naima";
+var name1 = "Naima";
 var lastName = "Ahmad";
 
-document.write(firstName+" "+lastName)
+document.write(name1+" "+lastName)
