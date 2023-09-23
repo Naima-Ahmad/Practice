@@ -103,3 +103,5 @@
 
 
 // Example 15
+
+document.write
