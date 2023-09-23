@@ -10,4 +10,4 @@
 
 // Example 3
 
-// document.write(123445)
+// document.write(2+2)
