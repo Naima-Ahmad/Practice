@@ -5,4 +5,4 @@
 
 // Example 1
 
-document.write("Hello World")
+// document.write(123445)
