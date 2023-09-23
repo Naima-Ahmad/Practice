@@ -39,3 +39,5 @@
 
 
 // Example 10
+
+console.log("Hello Naima Ahmad")
