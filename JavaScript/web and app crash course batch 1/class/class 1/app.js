@@ -92,11 +92,14 @@
 
 // Example 14
 
-var num1 = 5;
-var num2 = 10;
-var num3 = 15;
-var num4 = 20;
+// var num1 = 5;
+// var num2 = 10;
+// var num3 = 15;
+// var num4 = 20;
 
-var total = num1 + num2 * num3 - num4;
+// var total = num1 + num2 * num3 - num4;
 
-document.write(total)
+// document.write(total)
+
+
+// Example 15
