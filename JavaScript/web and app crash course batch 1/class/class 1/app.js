@@ -69,5 +69,11 @@
 
 // Example 13
 
-var 123 = "Naima Ahmad";
-document.write(123)
+// var a123 = "Naima Ahmad";
+// document.write(a123)
+
+
+// Example 14
+
+var firstName = "Naima";
+var lastName = "Ahmad";
