@@ -35,4 +35,7 @@
 
 // Example 9
 
-alert(2+2)
+// alert(2+2)
+
+
+// Example 10
