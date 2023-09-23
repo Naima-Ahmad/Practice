@@ -109,4 +109,4 @@
 
 // Example 16
 
-document.write("<table><tr><th></th></tr></table>")
+document.write("<table><tr><th>Heading 1</th></tr></table>")
