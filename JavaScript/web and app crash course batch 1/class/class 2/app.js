@@ -21,7 +21,7 @@
 // document.write(firstName+" "+lastName)
 
 
-// Example 4
+// Example 5
 
 var firstName = "Naima";
 var lastName = "Ahmad";
