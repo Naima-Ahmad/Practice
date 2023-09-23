@@ -17,3 +17,5 @@
 
 var firstName = "Naima";
 var firstName = "Ahmad";
+
+document.write(firstName+" "+)
