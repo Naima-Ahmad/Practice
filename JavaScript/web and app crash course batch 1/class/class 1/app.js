@@ -109,4 +109,4 @@
 
 // Example 16
 
-document
+document.write
