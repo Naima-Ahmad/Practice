@@ -30,4 +30,9 @@
 
 // Example 8
 
-alert("Hello Naima")
+// alert("Hello Naima")
+
+
+// Example 9
+
+alert(2+2)
