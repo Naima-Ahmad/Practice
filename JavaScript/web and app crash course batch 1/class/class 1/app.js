@@ -25,4 +25,7 @@
 
 // Example 7
 
-document.write("2 "+"Naima");
+// document.write("2 "+"Naima");
+
+
+// Example 8
