@@ -106,6 +106,7 @@
 
 // document.write("Hello"+"<br>"+"World")
 
+
 // Example 16
 
 document.write("<table border = '1'><tr><th>Heading 1</th><th>Heading 2</th></tr></table>")
