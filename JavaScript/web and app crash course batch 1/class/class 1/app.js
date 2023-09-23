@@ -45,4 +45,11 @@
 
 // Example 11
 
+// var firstname = "Naima Ahmad";
+// document.write(firstname)
+
+
+// Example 12
+
 var firstname = "Naima Ahmad";
+alert(firstname)
