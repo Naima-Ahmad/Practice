@@ -8,11 +8,16 @@
 // document.write(123445);
 
 
-// Example 3
+// Example 4
 
 // document.write(2+2);
 
 
-// Example 3
+// Example 5
+
+// document.write("2"+"2");
+
+
+// Example 6
 
 document.write("2"+"2");
