@@ -5,7 +5,7 @@
 
 // example 2
 
-var firstName = "naima"
+var firstName = "Naima"
 var secondName = "ahmad"
 
 document.write(firstName+secondName)
