@@ -8,4 +8,4 @@
 var firstName = "naima"
 var secondName = "ahmad"
 
-document.write(firstName)
+document.write(firstName+secondName)
