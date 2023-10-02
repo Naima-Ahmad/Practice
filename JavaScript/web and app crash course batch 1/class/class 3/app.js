@@ -49,4 +49,4 @@
 var a = 4;
 var b = 5;
 var c = 6;
-var d = a - b / c + a ;
+var d = a - b / c + a *;
