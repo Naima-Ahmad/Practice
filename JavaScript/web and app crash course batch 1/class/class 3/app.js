@@ -4,7 +4,7 @@
 // console.log("hello world")
 
 
-// example 2
+// Example 2
 
 // var firstName = "Naima"
 // var secondName = "Ahmad"
