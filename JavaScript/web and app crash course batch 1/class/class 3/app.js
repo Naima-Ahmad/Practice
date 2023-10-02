@@ -4,3 +4,6 @@
 // console.log("hello world")
 
 // example 2
+
+var firstName = "naima"
+var secondName = "naima"
