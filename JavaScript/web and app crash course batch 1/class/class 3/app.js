@@ -7,3 +7,5 @@
 
 var firstName = "naima"
 var secondName = "ahmad"
+
+document.write(firstName)
