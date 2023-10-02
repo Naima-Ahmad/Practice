@@ -12,7 +12,7 @@
 // document.write(firstName+" "+secondName)
 
 
-// example 3
+// Example 3
 
 // var num1 = 22;
 // var num2 = 34;
