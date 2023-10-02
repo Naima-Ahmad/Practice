@@ -15,3 +15,4 @@
 // example 3
 
 var num1 = 22;
+var num2 = 34;
