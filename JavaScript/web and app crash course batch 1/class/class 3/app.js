@@ -6,6 +6,6 @@
 // example 2
 
 var firstName = "Naima"
-var secondName = "ahmad"
+var secondName = "Ahmad"
 
 document.write(firstName+secondName)
