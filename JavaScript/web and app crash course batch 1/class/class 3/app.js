@@ -6,4 +6,4 @@
 // example 2
 
 var firstName = "naima"
-var secondName = "naima"
+var secondName = "ahmad"
