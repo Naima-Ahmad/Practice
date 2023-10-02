@@ -20,7 +20,7 @@
 // document.write(num1+num2)
 
 
-// xample 4
+// E    xample 4
 
 // var num1 = 22;
 // var num2 = 34;
