@@ -44,7 +44,7 @@
 // document.write(num1/num2)
 
 
-// example 7
+// Example 7
 
 // var a = 4;
 // var b = 5;
