@@ -53,9 +53,17 @@
 
 // document.write(d)
 
+
+// Example 8
+
 // var num1 = 10++;
 // var num2 = ++10;
 // var num3 = 10--;
 // var num4 = --10;
 
 
+// Example 9
+
+var num1 = 10;
+var num2 = num1++;
+document.write(num2)
