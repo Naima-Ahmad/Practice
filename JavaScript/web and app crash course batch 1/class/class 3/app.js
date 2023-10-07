@@ -72,5 +72,4 @@
 // Example 10
 
 var num1 = 10;
-var num2 = num1++;
-document.write(num2)
+var op = num1++ + ++num1 + num1
