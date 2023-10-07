@@ -66,10 +66,19 @@
 
 // var num1 = 10;
 // var num2 = num1++;
-// document.write(num2)
+// document.write(num2);
 
 
 // Example 10
 
-var num1 = 10;
-var op = num1++ + ++num1 + ++num1
+// var num1 = 10;
+// var op = num1++ + ++num1 + num1++ + ++num1
+// document.write(op);
+
+
+// Example 11
+
+var a = 5;
+var b = ++a + ++a + a++;
+
+document.write(b)
