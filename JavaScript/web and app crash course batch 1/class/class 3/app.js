@@ -72,4 +72,4 @@
 // Example 10
 
 var num1 = 10;
-var op = num1++ + ++num1 + num1
+var op = num1++ + ++num1 + ++num1
