@@ -53,9 +53,9 @@
 
 // document.write(d)
 
-var num1 = 10++;
-var num2 = ++10;
-var num3 = 10--;
-var num4 = --10;
+// var num1 = 10++;
+// var num2 = ++10;
+// var num3 = 10--;
+// var num4 = --10;
 
 
