@@ -78,7 +78,7 @@
 
 // Example 11
 
-var a = 5;
-var b = ++a + ++a + a++ + ++a + a++ + a++;
+// var a = 5;
+// var b = ++a + ++a + a++ + ++a + a++ + a++;
 
-document.write(b)
+// document.write(b)
