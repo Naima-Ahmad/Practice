@@ -82,3 +82,12 @@
 // var b = ++a + ++a + a++ + ++a + a++ + a++;
 
 // document.write(b)
+
+
+// Example 12
+
+// var a = 5;
+// var b = 10;
+// var c = --b + ++a + a++ - b-- + b++ + ++b + a++;
+//         9   +   6 +  6   -  9  +   8 +  10 +  7
+// document.write(c)
