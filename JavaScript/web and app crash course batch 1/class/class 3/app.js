@@ -112,4 +112,6 @@
 
 // Example 15
 
+var hint = "Naima Ahmad";
+var hint2 = 12;
 var userName = prompt("Enter your Name ?", hint)
