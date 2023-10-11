@@ -91,3 +91,25 @@
 // var c = --b + ++a + a++ - b-- + b++ + ++b + a++;
 //         9   +   6 +  6   -  9  +   8 +  10 +  7
 // document.write(c)
+
+
+// Example 13
+
+// var a = 12;
+// var b = 15;
+// var c = -5;
+// var d = 20;
+// var result = b + b++ + ++b - d + d++ + c-- + ++a - --a + a++ + c++ + 30 - 10;
+//             15 +  15 +  17 - 20 + 20 + -5  +  13 -  12 +  12 +  -4 + 30 - 10
+
+// document.write(result)
+
+
+// Example 14
+
+// prompt()
+
+
+// Example 15
+
+var userName = prompt("Enter your Name ?")
