@@ -115,3 +115,4 @@
 var hint = "Naima Ahmad";
 var hint2 = 12;
 var userName = prompt("Enter your Name ?", hint)
+var userAge = prompt("What is your Age ?", hint2)
