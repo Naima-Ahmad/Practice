@@ -114,5 +114,11 @@
 
 var hint = "Naima Ahmad";
 var hint2 = 12;
-var userName = prompt("Enter your Name ?", hint)
+var phoneHint = 0123456789;
+var userName = prompt("What is your Name ?", hint)
 var userAge = prompt("What is your Age ?", hint2)
+var userPhone = prompt("Enter your phone Number ?", phoneHint)
+
+document.write("username is "+ userName+"<br>")
+document.write("userAge is "+ userAge+"<br>")
+document.write("userContact is "+ userPhone+"<br>")
