@@ -110,7 +110,7 @@
 // prompt()
 
 
-// Example 15
+// // Example 15
 
 var hint = "Naima Ahmad";
 var hint2 = 12;
