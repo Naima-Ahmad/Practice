@@ -19,10 +19,12 @@
 
 
 // Example 4
+
 var saaman = prompt("Enter vegetable Name")
 if(saaman == "dhaniya"){
     document.write("ha dhaniya lee ao")
 }
+
 else{
     document.write("ha "+saaman+" lee ao")
 }
