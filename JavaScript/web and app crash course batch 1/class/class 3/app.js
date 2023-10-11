@@ -112,4 +112,4 @@
 
 // Example 15
 
-var userName = prompt("Enter your Name ?")
+var userName = prompt("Enter your Name ?", hint)
