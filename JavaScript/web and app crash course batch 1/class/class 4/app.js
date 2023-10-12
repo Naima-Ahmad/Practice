@@ -30,6 +30,21 @@
 // }
 
 
-// Example 5
+// Example 5a
 
-document.write(1==1)
+// document.write(1==1)
+
+
+// Example 5b
+ 
+// document.write(1=="1")
+
+
+// Example 5c
+ 
+document.write(1=="6")
+
+
+// Example 5c
+ 
+document.write(1=="6")
