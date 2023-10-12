@@ -32,4 +32,4 @@
 
 // Example 5
 
-document.write()
+document.write(1==1)
