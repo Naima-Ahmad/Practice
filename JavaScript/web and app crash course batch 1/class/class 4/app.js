@@ -52,4 +52,4 @@
 
 // Example 6
 
-var userInp = prompt("Enter your Percentage")
+var userInp = prompt("Enter Your Percentage")
