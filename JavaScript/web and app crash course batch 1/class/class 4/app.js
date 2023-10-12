@@ -22,9 +22,9 @@
 
 var saaman = prompt("Enter vegetable Name")
 if(saaman == "dhaniya"){
-    document.write("ha dhaniya lee ao")
+    document.write("haan dhaniya lee ao")
 }
 
 else{
-    document.write("ha "+saaman+" lee ao")
+    document.write("haan "+saaman+" lee ao")
 }
