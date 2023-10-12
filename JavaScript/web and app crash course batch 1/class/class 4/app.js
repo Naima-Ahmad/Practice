@@ -72,3 +72,6 @@ else if(userInp >= 50){
 else if (userInp >= 40){
     document.write("E")
 }
+else{
+    document.write("F")
+}
