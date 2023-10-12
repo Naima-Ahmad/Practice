@@ -47,4 +47,9 @@
 
 // Example 5d
  
-document.write(1==="1")
+// document.write(1==="1")
+
+
+// Example 6
+
+var userInp = prompt("Enter your Percentage")
