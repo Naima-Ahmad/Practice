@@ -69,7 +69,7 @@ else if(userInp >= 60 && userInp < 70){
 else if(userInp >= 50 && userInp < 60){
     document.write("D")
 }
-else if (userInp >= 40){
+else if (userInp >= 40 && userInp < 50){
     document.write("E")
 }
 else{
