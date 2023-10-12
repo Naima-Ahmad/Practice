@@ -60,3 +60,6 @@ if(userInp >= 90){
 else if(userInp >= 80){
     document.write("A")
 }
+else if(userInp >= 70){
+    document.write("B")
+}
