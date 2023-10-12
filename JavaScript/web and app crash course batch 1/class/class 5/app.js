@@ -1,13 +1,28 @@
 // Example 1
 
+// var meriEmail = "admin";
+// var meriPass = "admin";
+// var userkaemail = prompt("Enter your email ?");
+// var userkaPass = prompt("Enter your Password ?");
+
+// if(userkaemail === meriEmail && userkaPass === meriPass){
+//     document.write("you can go now --)")
+// }
+// else{
+//     document.write("Enter correct Email and Password")
+// }
+
+
+// Example 2
+
 var meriEmail = "admin";
 var meriPass = "admin";
 var userkaemail = prompt("Enter your email ?");
 var userkaPass = prompt("Enter your Password ?");
 
-if(userkaemail === meriEmail && userkaPass === meriPass){
+if(userkaemail === meriEmail || userkaPass === meriPass){
     document.write("you can go now --)")
 }
 else{
-    document.write()
+    document.write("Enter correct Email and Password")
 }
