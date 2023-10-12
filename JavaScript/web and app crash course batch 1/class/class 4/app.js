@@ -20,11 +20,16 @@
 
 // Example 4
 
-var saaman = prompt("Enter vegetable Name")
-if(saaman == "dhaniya"){
-    document.write("haan dhaniya lee ao")
-}
+// var saaman = prompt("Enter vegetable Name")
+// if(saaman == "dhaniya"){
+//     document.write("haan dhaniya lee ao")
+// }
 
-else{
-    document.write("haan "+saaman+" lee ao")
-}
+// else{
+//     document.write("haan "+saaman+" lee ao")
+// }
+
+
+// Example 5
+
+document.write()
