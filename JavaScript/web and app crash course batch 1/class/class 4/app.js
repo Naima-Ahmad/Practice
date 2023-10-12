@@ -58,5 +58,5 @@ if(userInp >= 90){
     document.write("A+")
 }
 else{
-    
+    document
 }
