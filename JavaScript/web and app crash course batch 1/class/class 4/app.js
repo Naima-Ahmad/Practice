@@ -63,3 +63,12 @@ else if(userInp >= 80){
 else if(userInp >= 70){
     document.write("B")
 }
+else if(userInp >= 60){
+    document.write("C")
+}
+else if(userInp >= 50){
+    document.write("D")
+}
+else if (userInp >= 40){
+    document.write("E")
+}
