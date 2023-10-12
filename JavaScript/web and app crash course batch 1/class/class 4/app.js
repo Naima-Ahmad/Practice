@@ -54,10 +54,10 @@
 
 var userInp = prompt("Enter Your Percentage")
 
-if(userInp >= 90){
+if(userInp >= 90 && userInp < 100){
     document.write("A+")
 }
-else if(userInp >= 80){
+else if(userInp >= 80 ){
     document.write("A")
 }
 else if(userInp >= 70){
