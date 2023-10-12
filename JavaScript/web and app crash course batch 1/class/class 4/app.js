@@ -42,9 +42,9 @@
 
 // Example 5c
  
-document.write(1=="6")
+// document.write(1=="6")
 
 
-// Example 5c
+// Example 5d
  
-document.write(1=="6")
+document.write(1==="1")
