@@ -57,3 +57,6 @@ var userInp = prompt("Enter Your Percentage")
 if(userInp >= 90){
     document.write("A+")
 }
+else{
+    
+}
