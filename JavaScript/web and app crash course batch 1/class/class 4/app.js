@@ -60,13 +60,13 @@ if(userInp >= 90 && userInp < 100){
 else if(userInp >= 80 && userInp < 90){
     document.write("A")
 }
-else if(userInp >= 70){
+else if(userInp >= 70 && userInp < 80){
     document.write("B")
 }
-else if(userInp >= 60){
+else if(userInp >= 60 && userInp < 70){
     document.write("C")
 }
-else if(userInp >= 50){
+else if(userInp >= 50 && userInp < 60){
     document.write("D")
 }
 else if (userInp >= 40){
