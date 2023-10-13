@@ -65,11 +65,11 @@
 
 // Example 9
 
-var user = +prompt("Enter your Number")
-var kahataq = +prompt("Number likho jaha taq multiply karvana hai")
-for (var i=1; i<=kahataq; i++){
-    document.write(user+" x "+i+" = "+user*i+"<br>")
-}
+// var user = +prompt("Enter your Number")
+// var kahataq = +prompt("Number likho jaha taq multiply karvana hai")
+// for (var i=1; i<=kahataq; i++){
+//     document.write(user+" x "+i+" = "+user*i+"<br>")
+// }
 
 
 // Example 10
