@@ -100,8 +100,17 @@
 
 // Example 10
 
+// var arr = ["ABCD","EFGH","IJKL","MNOP"];
+
+// var second = arr.slice(1,2)
+
+// document.write(second)
+
+
+// Example 10
+
 var arr = ["ABCD","EFGH","IJKL","MNOP"];
 
-var secondvariable = arr.slice()
+var second = arr.slice(1,3)
 
-document.write(arr)
+document.write(second)
