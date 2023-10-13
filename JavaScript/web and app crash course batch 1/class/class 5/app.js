@@ -57,8 +57,51 @@
 
 // Example 7
 
-var arr = ["Naima","Ahmad"];
+// var arr = ["Naima","Ahmad"];
 
-arr.push("Laiba")
+// arr.push("Laiba","Khataq")
+// arr.pop()
+// arr.pop()
+// arr.push("xyz")
+
+// document.write(arr)
+
+
+// Example 8
+
+//  var arr = ["Naima","Ahmad"];
+// arr.shift()
+
+// document.write(arr)
+
+
+// Example 9
+
+//  var arr = ["Naima","Ahmad"];
+// arr.unshift("Female",11+" year old")
+// document.write(arr)
+
+
+// Example 10
+
+// var arr = ["ABCD","EFGH","IJKL","MNOP"];
+// arr.splice(1,1)
+
+// document.write(arr)
+
+
+// Example 10
+
+// var arr = ["ABCD","EFGH","IJKL","MNOP"];
+// arr.splice(1,2,"Naima","Ahmad")
+
+// document.write(arr)
+
+
+// Example 10
+
+var arr = ["ABCD","EFGH","IJKL","MNOP"];
+
+var secondvariable = arr.slice()
 
 document.write(arr)
