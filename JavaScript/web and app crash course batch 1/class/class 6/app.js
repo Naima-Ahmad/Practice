@@ -93,3 +93,8 @@
 // else{
 //     document.write("Enter correct operator please.")
 // }
+
+
+// Example 11
+
+var arr = [];
