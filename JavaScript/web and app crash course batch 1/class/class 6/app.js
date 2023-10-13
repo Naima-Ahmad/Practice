@@ -97,14 +97,14 @@
 
 // Example 11
 
-var arr = ["New-zealand","Australia","England","India"];
+// var arr = ["New-zealand","Australia","England","India"];
 
-for(var i=0; i<arr.length; i++){
-    // document.write(arr[i]+"<br>")
-    if(arr[i] === "Pakistan"){
-        document.write(arr[i]+" jeet gaya"+"<br>")
-    }
-    else{
-        document.write("India tu harai ga InSha Allah !!!"+"<br>")
-    }
-}
+// for(var i=0; i<arr.length; i++){
+//     // document.write(arr[i]+"<br>")
+//     if(arr[i] === "Pakistan"){
+//         document.write(arr[i]+" jeet gaya"+"<br>")
+//     }
+//     else{
+//         document.write("India tu harai ga InSha Allah !!!"+"<br>")
+//     }
+// }
