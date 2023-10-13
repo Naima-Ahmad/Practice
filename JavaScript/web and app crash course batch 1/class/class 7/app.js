@@ -24,3 +24,7 @@
 
 var user = prompt("Enter your Language")
 var arr = ["Saraiki","Baloch","Punjabi","Urdu","Pushto"]
+
+for(i = 0; i<= arr.length; i++){
+    
+}
