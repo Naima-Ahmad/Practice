@@ -58,6 +58,25 @@
 
 // Example 8
 
-for(var i=1; i<=10; i++){
-    document.write(896+" x "+i+" = "+896*i+"<br>")
+// for(var i=1; i<=10; i++){
+//     document.write(896+" x "+i+" = "+896*i+"<br>")
+// }
+
+
+// Example 9
+
+// var user = +prompt("Enter your Number")
+// for (var i=1; i<=10; i++){
+//     document.write(user+" x "+i+" = "+user*i+"<br>")
+// }
+
+
+// Example 10
+
+var a = +prompt("Enter first value")
+var b = +prompt("Enter second value")
+var c = prompt("Enter Operator")
+
+if(c === "+"){
+    document.write(a+b)
 }
