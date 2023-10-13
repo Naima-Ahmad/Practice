@@ -51,5 +51,14 @@
 
 // Example 6
 
-var collection = ["Naima","Ahmad",11,"Smit",true,false];
-document.write(collection)
+// var collection = ["Naima","Ahmad",11,"Smit",true,false];
+// document.write(collection)
+
+
+// Example 7
+
+var arr = ["Naima","Ahmad"];
+
+arr.push("Laiba")
+
+document.write(arr)
