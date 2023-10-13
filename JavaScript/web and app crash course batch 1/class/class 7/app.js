@@ -54,5 +54,11 @@
 //     document.write("tail "+tail+" wins")
 // }
 
-var a = "Mahnor"
-document.write(a.charAt(5))
+
+// Example 6
+
+// var a = "Mahnor"
+// document.write(a.charAt(5))
+
+
+// Example 7
