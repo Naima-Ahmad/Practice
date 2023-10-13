@@ -78,16 +78,16 @@ var b = +prompt("Enter second Number :")
 var c = prompt("Enter Operator :")
 
 if(c === "+"){
-    document.write(a+b)
+    document.write(a+" + "+b+" = ",a+b)
 }
 else if (c === "-"){
-    document.write(a-b)
+    document.write(a+" - "+b+" = ",a-b)
 }
 else if (c === "/"){
-    document.write(a/b)
+    document.write(a+" / "+b+" = ",a/b)
 }
 else if (c === "*"){
-    document.write(a*b)
+    document.write(a+" x "+b+" = ",a*b)
 }
 else{
     document.write("Enter correct operator please.")
