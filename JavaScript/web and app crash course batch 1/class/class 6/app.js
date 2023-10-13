@@ -42,3 +42,15 @@
 // document.write("2"+" "+"x"+" "+"10"+" "+"="+" "+2*10+"<br>")
 
 
+// Example 6
+
+// for(var i=1; i<=10; i++){
+//     document.write(2+" x "+i+" = "+2*i+"<br>")
+// }
+
+
+// Example 7
+
+for(var i=1; i<=20; i++){
+    document.write(2+" x "+i+" = "+2*i+"<br>")
+}
