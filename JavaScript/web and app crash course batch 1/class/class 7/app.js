@@ -26,7 +26,7 @@ var user = prompt("Enter your Language")
 var arr = ['Saraiki','Baloch','Punjabi','Urdu','Pushto']
 var a = user.slice(0,1)
 var b = user.slice(1)
-var c = a.toUpperCase + b.toLowerCase
+var c = a.toUpperCase() + b.toLowerCase()
 
 for(var i = 0; i< arr.length; i++){
     if(arr[i] === c){
