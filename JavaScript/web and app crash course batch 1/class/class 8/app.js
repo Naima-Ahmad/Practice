@@ -76,4 +76,4 @@ var today = new Date();
 var todaymili = today.getTime()
 var diff = todaymili - dobmili;
 var age = diff / (1000*60*60*24*30*12)
-// document.write(diff)
+document.write(age)
