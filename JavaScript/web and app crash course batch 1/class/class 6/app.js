@@ -87,5 +87,5 @@ else if (c === "/"){
     document.write(a/b)
 }
 else if (c === "*"){
-    document.write(a8b)
+    document.write(a*b)
 }
