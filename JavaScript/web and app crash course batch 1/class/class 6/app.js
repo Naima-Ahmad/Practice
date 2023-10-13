@@ -89,3 +89,6 @@ else if (c === "/"){
 else if (c === "*"){
     document.write(a*b)
 }
+else{
+    document.write("Enter correct operator please.")
+}
