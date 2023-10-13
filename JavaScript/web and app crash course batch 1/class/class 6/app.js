@@ -51,6 +51,13 @@
 
 // Example 7
 
-for(var i=1; i<=20; i++){
-    document.write(2+" x "+i+" = "+2*i+"<br>")
+// for(var i=1; i<=20; i++){
+//     document.write(2+" x "+i+" = "+2*i+"<br>")
+// }
+
+
+// Example 8
+
+for(var i=1; i<=10; i++){
+    document.write(896+" x "+i+" = "+896*i+"<br>")
 }
