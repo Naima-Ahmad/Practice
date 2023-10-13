@@ -46,8 +46,34 @@
 
 // Age Calculator
 
+// var dob = new Date("6 sep, 2011");
+// var dobmili = dob.getTime();
+// var today = new Date();
+// var todaymili = today.getTime()
+// var diff = todaymili - dobmili;
+// document.write(diff)
+
+
+// Example 7
+
+// Age Calculator
+
+// var dob = new Date("6 sep, 2011");
+// var dobmili = dob.getFullYear()
+// var today = new Date();
+// var todaymili = today.getFullYear()
+// var diff = todaymili - dobmili;
+// document.write(diff)
+
+
+// Example 8
+
+// Age Calculator
+
 var dob = new Date("6 sep, 2011");
-var dobmili = dob.getTime();
+var dobmili = dob.getTime()
 var today = new Date();
 var todaymili = today.getTime()
-var diff = 
+var diff = todaymili - dobmili;
+var age = diff / (1000*60)
+// document.write(diff)
