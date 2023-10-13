@@ -80,3 +80,12 @@ var c = prompt("Enter Operator")
 if(c === "+"){
     document.write(a+b)
 }
+else if (c === "-"){
+    document.write(a-b)
+}
+else if (c === "/"){
+    document.write(a/b)
+}
+else if (c === "*"){
+    document.write(a8b)
+}
