@@ -108,3 +108,30 @@
 //         document.write("India tu harai ga InSha Allah !!!"+"<br>")
 //     }
 // }
+
+
+// Example 12
+
+// for(var i = 0; i<=10; i++){
+    //     // document.write(i+"<br>")
+    //     if(i === 5){
+        //         // break
+        //         continue
+//     }
+//     document.write(i+"<br>")
+// }
+
+
+// Example 13
+
+var arr = ["New-zealand","Australia","England","India"];
+
+for(var i=0; i<arr.length; i++){
+    // document.write(arr[i]+"<br>")
+    if(arr[i] === "Pakistan"){
+        document.write(arr[i]+" jeet gaya"+"<br>")
+    }
+    else{
+        document.write("India tu harai ga InSha Allah !!!"+"<br>")
+    }
+}
