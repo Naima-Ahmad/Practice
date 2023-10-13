@@ -78,6 +78,6 @@
 
 // Example 9
 
-var a = "Hello world world";
-var c = a.replace(/world/g,"Universe")
-document.write(c)
+// var a = "Hello world world";
+// var c = a.replace(/world/g,"Universe")
+// document.write(c)
