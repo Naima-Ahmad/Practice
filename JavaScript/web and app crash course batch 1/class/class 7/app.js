@@ -22,9 +22,15 @@
 
 // Example 4
 
-// var user = prompt("Enter your Language")
+var user = prompt("Enter your Language")
 var arr = ['Saraiki','Baloch','Punjabi','Urdu','Pushto']
+var a = user.slice()
 
 for(var i = 0; i< arr.length; i++){
-    document.write(arr[i],' ')
+    if(arr[i] === user){
+        document.write("mil gaya")
+    }
+    // else{
+    //     document.write("")
+    // }
 }
