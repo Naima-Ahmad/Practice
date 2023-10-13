@@ -65,30 +65,31 @@
 
 // Example 9
 
-// var user = +prompt("Enter your Number")
-// for (var i=1; i<=10; i++){
-//     document.write(user+" x "+i+" = "+user*i+"<br>")
-// }
+var user = +prompt("Enter your Number")
+var kahataq = +prompt("Number likho jaha taq multiply karvana hai")
+for (var i=1; i<=kahataq; i++){
+    document.write(user+" x "+i+" = "+user*i+"<br>")
+}
 
 
 // Example 10
 
-var a = +prompt("Enter first Number :")
-var b = +prompt("Enter second Number :")
-var c = prompt("Enter Operator :")
+// var a = +prompt("Enter first Number :")
+// var b = +prompt("Enter second Number :")
+// var c = prompt("Enter Operator :")
 
-if(c === "+"){
-    document.write(a+" + "+b+" = ",a+b)
-}
-else if (c === "-"){
-    document.write(a+" - "+b+" = ",a-b)
-}
-else if (c === "/"){
-    document.write(a+" / "+b+" = ",a/b)
-}
-else if (c === "*"){
-    document.write(a+" x "+b+" = ",a*b)
-}
-else{
-    document.write("Enter correct operator please.")
-}
+// if(c === "+"){
+//     document.write(a+" + "+b+" = ",a+b)
+// }
+// else if (c === "-"){
+//     document.write(a+" - "+b+" = ",a-b)
+// }
+// else if (c === "/"){
+//     document.write(a+" / "+b+" = ",a/b)
+// }
+// else if (c === "*"){
+//     document.write(a+" x "+b+" = ",a*b)
+// }
+// else{
+//     document.write("Enter correct operator please.")
+// }
