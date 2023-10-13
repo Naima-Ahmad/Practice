@@ -62,3 +62,22 @@
 
 
 // Example 7
+
+// var abc = "ayesha agai first position pe";
+// var b = abc.replace("ayesha","Naima");
+
+// document.write(b)
+
+
+// Example 8
+
+// var a = "Hello world world";
+// var c = a.replace("world","Universe")
+// document.write(c)
+
+
+// Example 9
+
+var a = "Hello world world";
+var c = a.replace(/world/g,"Universe")
+document.write(c)
