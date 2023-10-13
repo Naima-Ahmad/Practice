@@ -70,10 +70,23 @@
 
 // Age Calculator
 
-var dob = new Date("6 sep, 2011");
-var dobmili = dob.getTime()
+// var dob = new Date("6 sep, 2011");
+// var dobmili = dob.getTime();
+// var today = new Date();
+// var todaymili = today.getTime();
+// var diff = todaymili - dobmili;
+// var age = Math.floor(diff / (1000*60*60*24*30*12));
+// document.write(age)
+
+
+// Example 9
+
+// Age Calculator
+var xyz = prompt("Enter your birth date :")
+var dob = new Date(xyz);
+var dobmili = dob.getTime();
 var today = new Date();
-var todaymili = today.getTime()
+var todaymili = today.getTime();
 var diff = todaymili - dobmili;
-var age = diff / (1000*60*60*24*30*12)
-document.write(age)
+var age = Math.floor(diff / (1000*60*60*24*30*12));
+document.write(age);
