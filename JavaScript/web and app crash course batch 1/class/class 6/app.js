@@ -9,4 +9,20 @@
 
 // Example 2
 
-for(var i = 0; i <= 10;)
+// for(var i = 0; i <= 10; i++){
+//     document.write(i+"<br>")
+// }
+
+
+// Example 3
+
+// for(var i = 0; i <= 5000; i++){
+//     document.write(i+"<br>")
+// }
+
+
+// Example 4
+
+for(var i = 1; i <= 20; i++){
+    document.write(i+") Naima Ahmad"+"<br>")
+}
