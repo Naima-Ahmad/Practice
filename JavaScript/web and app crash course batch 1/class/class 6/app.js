@@ -23,6 +23,11 @@
 
 // Example 4
 
-for(var i = 1; i <= 20; i++){
-    document.write(i+") Naima Ahmad"+"<br>")
-}
+// for(var i = 1; i <= 20; i++){
+//     document.write(i+") Naima Ahmad"+"<br>")
+// }
+
+
+// Example 5
+
+document.write("2"+" "+"x"+" "+"1"+" "+"="+" "+2*1)
