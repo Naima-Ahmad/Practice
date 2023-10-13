@@ -42,17 +42,17 @@
 
 // Head Tail game
 
-// var head = prompt("Enter head name");
-// var tail = prompt("Enter tail name");
-// var toss = Math.random()*2;
-// var ksi = Math.floor(toss);
+var head = prompt("Enter head name");
+var tail = prompt("Enter tail name");
+var toss = Math.random()*2;
+var ksi = Math.floor(toss);
 
-// if(ksi == 0){
-//     document.write("head "+head+" wins")
-// }
-// else{
-//     document.write("tail "+tail+" wins")
-// }
+if(ksi == 0){
+    document.write("head "+head+" wins")
+}
+else{
+    document.write("tail "+tail+" wins")
+}
 
 
 // Example 6
