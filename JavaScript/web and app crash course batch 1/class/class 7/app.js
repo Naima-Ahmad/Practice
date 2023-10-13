@@ -22,17 +22,37 @@
 
 // Example 4
 
-var user = prompt("Enter your Language")
-var arr = ['Saraiki','Baloch','Punjabi','Urdu','Pushto']
-var a = user.slice(0,1)
-var b = user.slice(1)
-var c = a.toUpperCase() + b.toLowerCase()
+// var user = prompt("Enter your Language")
+// var arr = ['Saraiki','Baloch','Punjabi','Urdu','Pushto']
+// var a = user.slice(0,1)
+// var b = user.slice(1)
+// var c = a.toUpperCase() + b.toLowerCase()
 
-for(var i = 0; i< arr.length; i++){
-    if(arr[i] === c){
-        document.write("mil gaya")
-    }
-    // else{
-    //     document.write("")
-    // }
-}
+// for(var i = 0; i< arr.length; i++){
+//     if(arr[i] === c){
+//         document.write("mil gaya")
+//     }
+//      else{
+//          document.write("nahi mila")
+//      }
+// }
+
+
+// Example 5
+
+// Head Tail game
+
+// var head = prompt("Enter head name");
+// var tail = prompt("Enter tail name");
+// var toss = Math.random()*2;
+// var ksi = Math.floor(toss);
+
+// if(ksi == 0){
+//     document.write("head "+head+" wins")
+// }
+// else{
+//     document.write("tail "+tail+" wins")
+// }
+
+var a = "Mahnor"
+document.write(a.charAt(5))
