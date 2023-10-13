@@ -11,7 +11,16 @@
 
 
 // Example 3
+ 
+// var abc = "nAIMA";
+// var a = abc.slice(0,1)
+// document.write(a.toUpperCase())
+// var b = abc.slice(1)
+// var c = b.toLowerCase()
+// document.write(c)
 
-var abc = "Naima";
-var a = abc.slice(0,1)
-document.write(a)
+
+// Example 4
+
+var user = prompt("Enter your Language")
+var arr = ["Saraiki","Baloch","Punjabi","Urdu","Pushto"]
