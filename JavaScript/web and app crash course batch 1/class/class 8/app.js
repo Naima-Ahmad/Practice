@@ -47,4 +47,6 @@
 // Age Calculator
 
 var dob = new Date("6 sep, 2011");
-var dobmili = dob.getTime   
+var dobmili = dob.getTime();
+var today = new Date();
+var todaymili = today.getTime()
