@@ -9,5 +9,9 @@
 
 // nested loops
 
-var arr = ["Naima","Ahmad"];
-var secondarr = ["Laiba"];
+var arr = ["Naima","Laiba","Ayesha"];
+var secarr = [" Ahmad"];
+
+for(var i = 0; i < arr.length; i++){
+    document.write(arr[i]+secarr+"<br>")
+}
