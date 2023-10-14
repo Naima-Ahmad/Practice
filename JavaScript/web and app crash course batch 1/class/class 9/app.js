@@ -9,11 +9,18 @@
 
 // nested loops
 
-var arr = ["Naima","Laiba","Ayesha"];
-var secarr = [" Ahmad","Adil"];
+// var arr = ["Naima","Laiba","Minnal"];
+// var secarr = ["Ahmad","Adil"];
 
-for(var i = 0; i < arr.length; i++){
-    for(var j = 0; j<secarr.length; j++){
-        document.write(arr[i]+secarr[j]+"<br>")
-    }
+// for(var i = 0; i < arr.length; i++){
+//     for(var j = 0; j<secarr.length; j++){
+//         document.write(arr[i]+" "+secarr[j]+"<br>")
+//     }
+// }
+
+
+// Example 3
+
+for (var i = 0; i<4; i++){
+    
 }
