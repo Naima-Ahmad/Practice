@@ -49,7 +49,7 @@
 
 for(var i = 1; i<=10; i++){
     document.write(i+"<br>")
-    for(var j = 1; j<+ 10; j++){
-        document.write()
+    for(var j = 1; j<+ 10; j+2){
+        document.wirte(j+"<br>")
     }
 }
