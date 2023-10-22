@@ -40,8 +40,12 @@
 
 // Example 5
 
-function abc(){
-    document.write("Hello")
-}
+// function abc(){
+//     document.write("Hello")
+// }
 
-abc()
+// abc()
+
+
+// Example 6
+
