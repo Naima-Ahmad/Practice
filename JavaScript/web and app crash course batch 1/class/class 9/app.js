@@ -40,16 +40,8 @@
 
 // Example 5
 
-// for (var i = 1; i<10; i++){
-//     document.write(i +"<br>")
-//     for(var j = 1; j < 10; j+2){
-//         document.write(j)
-//     }
-// }
-
-for(var i = 1; i<=10; i++){
-    document.write(i+"<br>")
-    for(var j = 1; j<+ 10; j+2){
-        document.wirte(j+"<br>")
-    }
+function abc(){
+    document.write("Hello")
 }
+
+abc()
