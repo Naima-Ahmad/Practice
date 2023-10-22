@@ -40,6 +40,9 @@
 
 // Example 5
 
+
+// functions
+
 // function abc(){
 //     document.write("Hello")
 // }
