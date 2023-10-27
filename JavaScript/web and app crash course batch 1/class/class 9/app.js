@@ -72,8 +72,17 @@
 
 // Example 8
 
-function greet(abc){
-    alert(abc)
+// function greet(abc){
+//     alert(abc)
+// }
+
+// greet("Hello")
+
+
+// Example 9
+
+function add(a,b){
+    alert(a+b)
 }
 
-greet("Hello")
+add(2,3)
