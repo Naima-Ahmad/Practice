@@ -66,3 +66,5 @@
 function greet(abc){
     alert(abc)
 }
+
+greet()
