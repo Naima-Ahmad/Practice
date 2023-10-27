@@ -63,6 +63,6 @@
 
 // Example 7
 
-function greet(){
-    
+function greet(abc){
+    alert(abc)
 }
