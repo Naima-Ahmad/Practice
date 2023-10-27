@@ -90,9 +90,20 @@
 
 // Example 10
 
+// function add(a,b){
+//     alert(a+b)
+// }
+
+// add(2,3)
+// add(4,5)
+
+
+// Example 11
+
 function add(a,b){
     alert(a+b)
 }
 
 add(2,3)
 add(4,5)
+add(78,30)
