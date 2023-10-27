@@ -119,3 +119,10 @@
 // }
 
 // add(num1,num2)
+
+
+// Task 1
+
+    for(var i = 1; i<=10; i++){
+        document.write(i+" ")
+    }
