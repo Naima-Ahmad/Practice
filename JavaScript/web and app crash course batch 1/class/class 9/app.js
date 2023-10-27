@@ -52,3 +52,17 @@
 
 // Example 6
 
+// function counting(){
+//     for(var i=1; i  10; i++){
+//         document.write(i + "<br>")
+//     }
+// }
+
+// counting()
+
+
+// Example 7
+
+function greet(){
+    
+}
