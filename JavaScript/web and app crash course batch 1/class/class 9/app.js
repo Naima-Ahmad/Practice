@@ -63,8 +63,17 @@
 
 // Example 7
 
+// function greet(abc){
+//     alert(abc)
+// }
+
+// greet()
+
+
+// Example 8
+
 function greet(abc){
     alert(abc)
 }
 
-greet()
+greet("Hello")
