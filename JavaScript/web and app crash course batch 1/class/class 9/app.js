@@ -111,11 +111,11 @@
 
 // Example 12
 
-var num1 = +prompt("Enter First Number :")
-var num2 = +prompt("Enter Second Number :")
+// var num1 = +prompt("Enter First Number :")
+// var num2 = +prompt("Enter Second Number :")
 
-function add(a="Please Enter",b=" a Number"){
-    alert(a+b)
-}
+// function add(a="Please Enter",b=" a Number"){
+//     alert(a+b)
+// }
 
-add(num1,num2)
+// add(num1,num2)
