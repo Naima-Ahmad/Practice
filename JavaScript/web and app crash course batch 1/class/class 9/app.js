@@ -81,6 +81,15 @@
 
 // Example 9
 
+// function add(a,b){
+//     alert(a+b)
+// }
+
+// add(2,3)
+
+
+// Example 10
+
 function add(a,b){
     alert(a+b)
 }
