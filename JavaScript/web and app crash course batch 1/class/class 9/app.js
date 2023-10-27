@@ -100,10 +100,22 @@
 
 // Example 11
 
-function add(a,b){
+// function add(a,b){
+//     alert(a+b)
+// }
+
+// add(2,3)
+// add(4,5)
+// add(78,30)
+
+
+// Example 12
+
+var num1 = +prompt("Enter First Number :")
+var num2 = +prompt("Enter Second Number :")
+
+function add(a="Please Enter",b=" a Number"){
     alert(a+b)
 }
 
-add(2,3)
-add(4,5)
-add(78,30)
+add(num1,num2)
