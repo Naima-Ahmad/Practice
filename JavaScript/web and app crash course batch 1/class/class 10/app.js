@@ -72,3 +72,5 @@
 function add(a,b){
     return("hello")
 }
+
+alert(add())
