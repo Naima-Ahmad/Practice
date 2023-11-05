@@ -42,4 +42,4 @@ function add(a,b){
     return a + b
 }
 
-alert(add())
+alert(add(10,80))
