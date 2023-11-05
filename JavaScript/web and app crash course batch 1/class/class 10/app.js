@@ -18,6 +18,8 @@
 
 // Example 3
 
-function add(){
-    
+function add(a,b){
+    alert(a + b)
 }
+
+add(5,5)
