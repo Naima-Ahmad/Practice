@@ -63,3 +63,5 @@ function add(a,b){
 
 var abc = add(3,5);
 var def = add(12,12);
+
+document.write(abc+"<br>"+def)
