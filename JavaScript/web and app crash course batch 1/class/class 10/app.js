@@ -61,4 +61,4 @@ function add(a,b){
     return a + b
 }
 
-var abc = add();
+var abc = add(3,5);
