@@ -38,6 +38,6 @@
 
 // Example 5
 
-function add(a){
+function add(a,){
 
 }
