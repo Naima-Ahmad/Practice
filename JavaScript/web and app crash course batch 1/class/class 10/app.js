@@ -70,7 +70,7 @@
 // Example 8
 
 function add(a,b){
-    return("hello")
+    return("hello");
 }
 
-alert(add())
+alert(add());
