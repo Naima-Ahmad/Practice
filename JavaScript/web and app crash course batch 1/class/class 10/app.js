@@ -39,5 +39,5 @@
 // Example 5
 
 function add(a,b){
-    return
+    return a
 }
