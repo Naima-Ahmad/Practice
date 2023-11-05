@@ -9,8 +9,15 @@
 
 // Example 2
 
-function abc(a){
-    alert(a)
-}
+// function abc(a){
+//     alert(a)
+// }
 
-abc("Hello World!")
+// abc("Hello World!")
+
+
+// Example 3
+
+function add(){
+    
+}
