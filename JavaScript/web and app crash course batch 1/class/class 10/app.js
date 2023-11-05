@@ -27,10 +27,13 @@
 
 // Example 4
 
-function add(a,b){
-    alert(a + b)
-}
+// function add(a,b){
+//     alert(a + b)
+// }
 
-add(5,5)
-add(5,8)
-add(98,45)
+// add(5,5)
+// add(5,8)
+// add(98,45)
+
+
+// Example 5
