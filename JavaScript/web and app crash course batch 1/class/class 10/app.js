@@ -12,3 +12,5 @@
 function abc(a){
     alert(a)
 }
+
+abc("Hello World!")
