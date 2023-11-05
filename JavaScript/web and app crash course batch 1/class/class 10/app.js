@@ -38,11 +38,11 @@
 
 // Example 5
 
-function add(a,b){
-    return a + b
-}
+// function add(a,b){
+//     return a + b
+// }
 
-alert(add(10,80))
+// alert(add(10,80))
 
 
 // Example 5
