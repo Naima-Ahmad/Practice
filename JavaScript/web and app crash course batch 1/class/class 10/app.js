@@ -38,4 +38,4 @@
 
 // Example 5
 
-function
+function add()
