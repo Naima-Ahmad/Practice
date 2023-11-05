@@ -43,3 +43,12 @@ function add(a,b){
 }
 
 alert(add(10,80))
+
+
+// Example 5
+
+function add(a,b){
+    return a + b
+}
+
+alert(add(10,80))
