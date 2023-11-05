@@ -57,11 +57,18 @@
 
 // Example 7
 
+// function add(a,b){
+//     return a + b
+// }
+
+// var abc = add(3,5);
+// var def = add(12,12);
+
+// document.write(abc+"<br>"+def)
+
+
+// Example 8
+
 function add(a,b){
-    return a + b
+    
 }
-
-var abc = add(3,5);
-var def = add(12,12);
-
-document.write(abc+"<br>"+def)
