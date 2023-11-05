@@ -74,3 +74,6 @@
 // }
 
 // alert(add());
+
+
+// Example 9
