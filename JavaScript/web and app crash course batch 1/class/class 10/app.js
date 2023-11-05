@@ -45,7 +45,7 @@
 // alert(add(10,80))
 
 
-// Example 5
+// Example 6
 
 function add(a,b){
     return a + b
