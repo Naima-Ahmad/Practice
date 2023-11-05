@@ -88,14 +88,14 @@
 
 // Example 10
 
-var a = "Hello";
+// var a = "Hello";
 
-function abc(){
-    var b = "World";
-}
+// function abc(){
+//     var b = "World";
+// }
 
-document.write(a)
-document.write(b)
+// document.write(a)
+// document.write(b)
 
 
 // Example 10
