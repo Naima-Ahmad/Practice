@@ -9,6 +9,6 @@
 
 // Example 2
 
-function abc(){
-    
+function abc(a){
+    alert(a)
 }
