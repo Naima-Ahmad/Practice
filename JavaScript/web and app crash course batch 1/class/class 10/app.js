@@ -89,3 +89,7 @@
 // Example 10
 
 var a = "Hello";
+
+function abc(){
+    
+}
