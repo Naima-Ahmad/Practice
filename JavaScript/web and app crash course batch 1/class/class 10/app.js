@@ -1,10 +1,10 @@
 //Example 1
 
-function greet(){
-    alert("hello world")
-}
+// function greet(){
+//     alert("hello world")
+// }
 
-greet()
+// greet()
 
 
 // Example 2
