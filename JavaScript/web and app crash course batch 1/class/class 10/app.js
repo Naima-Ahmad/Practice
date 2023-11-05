@@ -78,6 +78,7 @@
 
 // Example 9
 
+var a = "hello"
 function add(){
-    
+
 }
