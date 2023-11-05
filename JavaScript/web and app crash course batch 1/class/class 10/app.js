@@ -70,5 +70,5 @@
 // Example 8
 
 function add(a,b){
-    
+    return("hello")
 }
