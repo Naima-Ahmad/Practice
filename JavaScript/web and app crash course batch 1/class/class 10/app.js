@@ -91,5 +91,9 @@
 var a = "Hello";
 
 function abc(){
-    
+    var b = "World";
+    return b
 }
+
+document.write(a)
+document.write(b)
