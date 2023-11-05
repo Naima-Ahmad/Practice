@@ -98,7 +98,7 @@
 // document.write(b)
 
 
-// Example 10
+// Example 11
 
 var a = "Hello";
 
