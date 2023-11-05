@@ -78,9 +78,9 @@
 
 // Example 9
 
-var a = "hello"
-function add(){
-    alert(a)
-}
+// var a = "hello"
+// function add(){
+//     alert(a)
+// }
 
-add()
+// add()
