@@ -92,7 +92,18 @@ var a = "Hello";
 
 function abc(){
     var b = "World";
-    return b
+}
+
+document.write(a)
+document.write(b)
+
+
+// Example 10
+
+var a = "Hello";
+
+function abc(){
+    var b = "World";
 }
 
 document.write(a)
