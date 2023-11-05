@@ -18,8 +18,19 @@
 
 // Example 3
 
+// function add(a,b){
+//     alert(a + b)
+// }
+
+// add(5,5)
+
+
+// Example 4
+
 function add(a,b){
     alert(a + b)
 }
 
 add(5,5)
+add(5,8)
+add(98,45)
