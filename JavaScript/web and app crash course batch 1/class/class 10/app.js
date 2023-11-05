@@ -84,3 +84,8 @@
 // }
 
 // add()
+
+
+// Example 10
+
+var a = "Hello";
