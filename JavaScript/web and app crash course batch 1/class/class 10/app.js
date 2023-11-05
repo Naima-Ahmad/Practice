@@ -47,12 +47,12 @@
 
 // Example 6
 
-function add(a,b){
-    return a + b
-}
+// function add(a,b){
+//     return a + b
+// }
 
-alert(add(10,80))
-alert(add(71,63))
+// alert(add(10,80))
+// alert(add(71,63))
 
 
 // Example 6
