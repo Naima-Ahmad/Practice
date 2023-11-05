@@ -80,5 +80,7 @@
 
 var a = "hello"
 function add(){
-
+    alert(a)
 }
+
+add()
