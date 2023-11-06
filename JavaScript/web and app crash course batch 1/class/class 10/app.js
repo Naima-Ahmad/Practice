@@ -188,3 +188,10 @@ function add(a,b){
 
 // onmouseover
 
+// Example 22
+
+
+// Example 23
+
+
+// Example 24
