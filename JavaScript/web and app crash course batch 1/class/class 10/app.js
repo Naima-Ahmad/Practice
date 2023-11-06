@@ -165,7 +165,7 @@
 // Example 18
 
 // function execute(){
-//     alert("Hello Naima")
+//     alert("Hello Naima");
 // }
 
 
