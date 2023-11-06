@@ -132,4 +132,4 @@ do{
     document.write(a);
     a++;
 }
-while(a<=10)
+while(a <= 10)
