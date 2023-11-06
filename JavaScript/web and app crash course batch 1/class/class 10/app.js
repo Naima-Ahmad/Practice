@@ -137,12 +137,12 @@
 
 // Example 14
 
-var a = 25;
-do{
-    document.write(a+"<br>");
-    a++;
-}
-while(a <= 10)
+// var a = 25;
+// do{
+//     document.write(a+"<br>");
+//     a++;
+// }
+// while(a <= 10)
 
 
 // Example 14
