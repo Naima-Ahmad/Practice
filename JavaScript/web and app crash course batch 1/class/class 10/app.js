@@ -178,9 +178,9 @@
 
 // Exampe 20
 
-function add(a,b){
-    alert(a + b)
-}
+// function add(a,b){
+//     alert(a + b)
+// }
 
 // Event buttons
 
