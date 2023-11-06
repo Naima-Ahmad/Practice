@@ -154,10 +154,10 @@
 // }
 // while(a <= 10)
 
+// Events links
 
 // Example 16
 
-// Events links
 
 // Example 17
 
@@ -182,7 +182,9 @@ function add(a,b){
     alert(a + b)
 }
 
+// Event buttons
+
 // Example 21
 
-// Event buttons
+// onmouseover
 
