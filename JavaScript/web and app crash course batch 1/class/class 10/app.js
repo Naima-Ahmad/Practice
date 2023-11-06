@@ -131,4 +131,4 @@ var a = 0;
 do{
     document.write(a)
 }
-while()
+while(a<=10)
