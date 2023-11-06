@@ -172,6 +172,13 @@
 
 // Exampe 19
 
+// function add(a,b){
+//     alert(a + b)
+// }
+
+
+// Exampe 20
+
 function add(a,b){
     alert(a + b)
 }
