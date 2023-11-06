@@ -114,3 +114,5 @@
 // Example 12
 
 // While loop
+
+var a = 0;
