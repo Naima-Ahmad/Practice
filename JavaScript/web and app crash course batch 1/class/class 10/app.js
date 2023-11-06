@@ -10,7 +10,7 @@
 // Example 2
 
 // function abc(a){
-//     alert(a)
+//     alert(a);
 // }
 
 // abc("Hello World!")
