@@ -1,7 +1,7 @@
 //Example 1
 
 // function greet(){
-//     alert("hello world")
+//     alert("hello world");
 // }
 
 // greet()
