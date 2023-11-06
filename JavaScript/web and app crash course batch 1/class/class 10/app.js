@@ -115,9 +115,16 @@
 
 // While loop
 
-var a = 0;
+// var a = 0;
 
-while (a <= 10){
-    document.write(a+"<br>");
-    a++;
-}
+// while (a <= 10){
+//     document.write(a+"<br>");
+//     a++;
+// }
+
+
+// Example 13
+
+// Do while loop
+
+var a = 0;
