@@ -179,7 +179,7 @@
 // Exampe 20
 
 // function add(a,b){
-//     alert(a + b)
+//     alert(a + b);
 // }
 
 // Event buttons
