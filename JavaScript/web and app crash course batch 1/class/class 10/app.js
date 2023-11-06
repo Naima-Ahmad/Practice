@@ -145,7 +145,7 @@
 // while(a <= 10)
 
 
-// Example 14
+// Example 15
 
 var a = 25;
 do{
