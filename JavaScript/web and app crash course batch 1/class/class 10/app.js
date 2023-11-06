@@ -147,7 +147,7 @@
 
 // Example 15
 
-var a = 25;
+var a = 5;
 do{
     document.write(a+"<br>");
     a++;
