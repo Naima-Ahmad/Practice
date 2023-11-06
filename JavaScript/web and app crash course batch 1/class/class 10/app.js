@@ -28,7 +28,7 @@
 // Example 4
 
 // function add(a,b){
-//     alert(a + b)
+//     alert(a + b);
 // }
 
 // add(5,5)
