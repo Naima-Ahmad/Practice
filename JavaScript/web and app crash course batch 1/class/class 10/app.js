@@ -51,7 +51,7 @@
 //     return a + b
 // }
 
-// alert(add(10,80))
+// alert(add(10,80));
 // alert(add(71,63))
 
 
