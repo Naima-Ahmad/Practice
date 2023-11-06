@@ -132,4 +132,3 @@ do{
     document.write(a)
 }
 while(a<=10)
-}
