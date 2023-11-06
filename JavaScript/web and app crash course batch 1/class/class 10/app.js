@@ -94,7 +94,7 @@
 //     var b = "World";
 // }
 
-// document.write(a)
+// document.write(a);
 // document.write(b)
 
 
