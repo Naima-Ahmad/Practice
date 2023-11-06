@@ -83,7 +83,7 @@
 //     alert(a)
 // }
 
-// add()
+// add();
 
 
 // Example 10
