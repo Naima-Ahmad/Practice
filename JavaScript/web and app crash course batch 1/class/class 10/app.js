@@ -128,3 +128,6 @@
 // Do while loop
 
 var a = 0;
+do{
+    
+}
