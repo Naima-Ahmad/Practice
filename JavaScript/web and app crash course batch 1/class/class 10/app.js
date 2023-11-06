@@ -147,9 +147,15 @@
 
 // Example 15
 
-var a = 5;
-do{
-    document.write(a+"<br>");
-    a++;
-}
-while(a <= 10)
+// var a = 5;
+// do{
+//     document.write(a+"<br>");
+//     a++;
+// }
+// while(a <= 10)
+
+
+// Example 16
+
+// Events
+
