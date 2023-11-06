@@ -131,5 +131,5 @@ var a = 0;
 do{
     document.write(a)
 }
-while(a<=10){
+while(a<=10)
 }
