@@ -100,12 +100,17 @@
 
 // Example 11
 
-var a = "Hello";
+// var a = "Hello";
 
-function abc(){
-    var b = "World";
-    return b
-}
+// function abc(){
+//     var b = "World";
+//     return b
+// }
 
-document.write(a)
-document.write(abc())
+// document.write(a);
+// document.write(abc());
+
+
+// Example 12
+
+// While loop
