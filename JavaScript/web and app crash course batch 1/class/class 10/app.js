@@ -95,7 +95,7 @@
 // }
 
 // document.write(a);
-// document.write(b)
+// document.write(b);
 
 
 // Example 11
