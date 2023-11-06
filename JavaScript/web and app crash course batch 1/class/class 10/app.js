@@ -52,7 +52,7 @@
 // }
 
 // alert(add(10,80));
-// alert(add(71,63))
+// alert(add(71,63));
 
 
 // Example 7
