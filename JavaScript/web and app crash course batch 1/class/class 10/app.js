@@ -165,6 +165,13 @@
 
 // Example 18
 
-function execute(){
-    alert("Hello Naima")
+// function execute(){
+//     alert("Hello Naima")
+// }
+
+
+// Exampe 19
+
+function add(a,b){
+    alert(a + b)
 }
