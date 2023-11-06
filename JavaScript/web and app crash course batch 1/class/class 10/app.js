@@ -157,8 +157,7 @@
 
 // Example 16
 
-// Events
-
+// Events links
 
 // Example 17
 
@@ -184,3 +183,6 @@ function add(a,b){
 }
 
 // Example 21
+
+// Event buttons
+
