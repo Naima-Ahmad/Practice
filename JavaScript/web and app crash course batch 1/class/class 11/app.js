@@ -26,5 +26,5 @@
 
 function clickme(){
     var a = document.getElementById("abc");
-    alert(a.value);
+    document.write(a.value);
 }
