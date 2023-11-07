@@ -32,8 +32,11 @@
 
 // Example 3
 
-function clickme(){
-    var a = document.getElementById("abc");
-    alert(a.value);
-    a.value = '';
-}
+// function clickme(){
+//     var a = document.getElementById("abc");
+//     alert(a.value);
+//     a.value = '';
+// }
+
+
+// Exampel 4
