@@ -24,6 +24,14 @@
 
 // Example 2
 
+// function clickme(){
+//     var a = document.getElementById("abc");
+//     document.write(a.value);
+// }
+
+
+// Example 3
+
 function clickme(){
     var a = document.getElementById("abc");
     document.write(a.value);
