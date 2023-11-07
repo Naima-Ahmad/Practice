@@ -74,4 +74,6 @@ function clr(){
     r.value = '';
 }
 
-function clrall()
+function clrall(){
+    var e = document.getElementById("inpt");
+}
