@@ -63,3 +63,5 @@ function calc(a){
     var efg = document.getElementById('inpt');
     efg.value += a;
 }
+
+function
