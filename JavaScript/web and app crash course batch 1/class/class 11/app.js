@@ -34,5 +34,5 @@
 
 function clickme(){
     var a = document.getElementById("abc");
-    document.write(a.value);
+    alert(a.value);
 }
