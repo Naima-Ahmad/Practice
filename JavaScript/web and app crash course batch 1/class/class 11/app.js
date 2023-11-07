@@ -1,3 +1,4 @@
+// Previous Class Revision
 // Example 1
 
 // function abc(){
@@ -7,6 +8,10 @@
 
 // Example 2
 
-function abc(a){
-    alert(a)
-}
+// function abc(a){
+//     alert(a)
+// }
+
+
+// Example 3
+
