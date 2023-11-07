@@ -58,3 +58,7 @@
 // Example 6
 
 // Calculator
+
+function calc(){
+    
+}
