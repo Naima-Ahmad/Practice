@@ -42,5 +42,5 @@
 // Exampel 4
 
 function xyz(){
-    var a = document
+    var a = document.getElementById
 }
