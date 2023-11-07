@@ -41,6 +41,6 @@
 
 // Exampel 4
 
-function xyz(){
-    var a = document.getElementById
+function showText(){
+    var a = document.getElementById("xyz")
 }
