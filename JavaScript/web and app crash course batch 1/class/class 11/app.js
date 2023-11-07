@@ -69,4 +69,6 @@ function result(){
     h.value = eval(h.value);
 }
 
-function
+function clr(){
+    var r
+}
