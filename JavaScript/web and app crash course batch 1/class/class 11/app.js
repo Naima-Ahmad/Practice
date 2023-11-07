@@ -65,6 +65,6 @@ function calc(a){
 }
 
 function result(){
-    var h = document.getElementById("inpt").value;
-    h = eval(h.value);
+    var h = document.getElementById("inpt");
+    h.value = eval(h.value);
 }
