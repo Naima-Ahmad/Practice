@@ -60,5 +60,5 @@
 // Calculator
 
 function calc(a){
-    console.log(a)
+    console.log(a);
 }
