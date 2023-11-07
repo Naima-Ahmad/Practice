@@ -60,6 +60,6 @@
 // Calculator
 
 function calc(a){
-    document.getElementById('inpt');
-    a.value = a;
+    var efg = document.getElementById('inpt');
+    efg.value = a;
 }
