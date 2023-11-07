@@ -43,4 +43,5 @@
 
 function showText(){
     var a = document.getElementById("xyz");
+    a.innerHTML="";
 }
