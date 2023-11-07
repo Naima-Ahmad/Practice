@@ -65,5 +65,5 @@ function calc(a){
 }
 
 function result(){
-    var h = 
+    var h = document.getElementById
 }
