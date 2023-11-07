@@ -69,11 +69,12 @@ function result(){
     h.value = eval(h.value);
 }
 
-function clr(){
+function clrall(){
     var r = document.getElementById("inpt");
     r.value = '';
 }
 
-function clrall(){
+function clr(){
     var e = document.getElementById("inpt");
+    e.value = e.value.slice(0,-1)
 }
