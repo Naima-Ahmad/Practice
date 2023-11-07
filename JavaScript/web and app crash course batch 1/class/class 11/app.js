@@ -60,5 +60,5 @@
 // Calculator
 
 function calc(a){
-    
+    document.getElementById('inpt')
 }
