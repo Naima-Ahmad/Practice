@@ -74,4 +74,4 @@ function clr(){
     r.value = '';
 }
 
-function
+function clrall()
