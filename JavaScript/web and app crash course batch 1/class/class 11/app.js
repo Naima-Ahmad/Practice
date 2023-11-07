@@ -35,4 +35,5 @@
 function clickme(){
     var a = document.getElementById("abc");
     alert(a.value);
+    a.value
 }
