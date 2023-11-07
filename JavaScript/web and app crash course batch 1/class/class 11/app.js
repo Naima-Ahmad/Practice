@@ -68,3 +68,5 @@ function result(){
     var h = document.getElementById("inpt");
     h.value = eval(h.value);
 }
+
+function
