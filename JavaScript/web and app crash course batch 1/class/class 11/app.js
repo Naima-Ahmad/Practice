@@ -18,4 +18,5 @@
 
 function clickme(){
     var a = document.getElementById("abc");
+    alert()
 }
