@@ -64,4 +64,6 @@ function calc(a){
     efg.value += a;
 }
 
-function
+function result(){
+    var h = 
+}
