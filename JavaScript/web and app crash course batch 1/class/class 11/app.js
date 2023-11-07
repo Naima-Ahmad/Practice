@@ -41,7 +41,7 @@
 
 // Exampel 4
 
-function showText(){
-    var a = document.getElementById("xyz");
-    a.innerHTML="Naima is a good girl. She is 12 year old.";
-}
+// function showText(){
+//     var a = document.getElementById("xyz");
+//     a.innerHTML="Naima is a good girl. She is 12 year old.";
+// }
