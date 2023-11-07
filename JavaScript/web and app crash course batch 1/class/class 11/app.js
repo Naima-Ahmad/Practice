@@ -42,5 +42,5 @@
 // Exampel 4
 
 function showText(){
-    var a = document.getElementById("xyz")
+    var a = document.getElementById("xyz");
 }
