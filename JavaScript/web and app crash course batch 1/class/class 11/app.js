@@ -70,5 +70,5 @@ function result(){
 }
 
 function clr(){
-    var r
+    var r = document.getElementById("inpt")
 }
