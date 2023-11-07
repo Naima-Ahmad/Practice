@@ -45,3 +45,10 @@
 //     var a = document.getElementById("xyz");
 //     a.innerHTML="Naima is a good girl. She is 12 year old.";
 // }
+
+
+// Example 5
+
+function more(){
+    
+}
