@@ -17,5 +17,5 @@
 // Example 1
 
 function clickme(){
-    var a = document.getElementById("abc")
+    var a = document.getElementById("abc");
 }
