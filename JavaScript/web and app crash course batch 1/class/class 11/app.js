@@ -50,5 +50,5 @@
 // Example 5
 
 function more(){
-    var a = document.getElementById("readMore")
+    var a = document.getElementById("readMore");
 }
