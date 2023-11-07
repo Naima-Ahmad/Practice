@@ -73,3 +73,5 @@ function clr(){
     var r = document.getElementById("inpt");
     r.value = '';
 }
+
+function
