@@ -59,6 +59,6 @@
 
 // Calculator
 
-function calc(){
-    console.log()
+function calc(a){
+    console.log(a)
 }
