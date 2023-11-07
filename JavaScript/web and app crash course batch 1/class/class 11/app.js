@@ -16,7 +16,15 @@
 // New Class
 // Example 1
 
+// function clickme(){
+//     var a = document.getElementById("abc");
+//     alert(a.value);
+// }
+
+
+// Example 2
+
 function clickme(){
     var a = document.getElementById("abc");
-    alert(a);
+    alert(a.value);
 }
