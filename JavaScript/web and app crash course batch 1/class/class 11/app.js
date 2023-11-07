@@ -8,5 +8,5 @@
 // Example 2
 
 function abc(a){
-    alert()
+    alert(a)
 }
