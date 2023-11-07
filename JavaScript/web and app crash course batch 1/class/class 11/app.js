@@ -13,5 +13,6 @@
 // }
 
 
-// Example 3
+// New Class
+// Example 1
 
