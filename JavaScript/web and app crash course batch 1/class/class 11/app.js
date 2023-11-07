@@ -16,3 +16,6 @@
 // New Class
 // Example 1
 
+function clickme(){
+    var a =
+}
