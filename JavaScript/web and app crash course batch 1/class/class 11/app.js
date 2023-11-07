@@ -7,3 +7,4 @@
 
 // Example 2
 
+function
