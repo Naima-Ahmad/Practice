@@ -7,4 +7,4 @@
 
 // Example 2
 
-function
+function abc()
