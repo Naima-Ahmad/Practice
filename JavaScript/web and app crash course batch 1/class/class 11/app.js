@@ -17,5 +17,5 @@
 // Example 1
 
 function clickme(){
-    var a =
+    var a = document.
 }
