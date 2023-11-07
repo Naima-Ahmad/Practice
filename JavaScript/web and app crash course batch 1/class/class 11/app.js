@@ -61,5 +61,5 @@
 
 function calc(a){
     var efg = document.getElementById('inpt');
-    efg.value = a;
+    efg.value += a;
 }
