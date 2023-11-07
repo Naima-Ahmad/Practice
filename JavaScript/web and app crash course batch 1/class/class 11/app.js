@@ -49,6 +49,12 @@
 
 // Example 5
 
-function more(){
-    var a = document.getElementById("readMore");
-}
+// function more(){
+//     var a = document.getElementById("readMore");
+//     a.innerHTML="Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, alias autem odit nihil corporis facilis aliquam aperiam. Doloremque sunt provident porro officiis aut, repellat expedita magni nemo quae quia. Nulla."
+// }
+
+
+// Example 6
+
+// Calculator
