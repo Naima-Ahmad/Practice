@@ -26,5 +26,5 @@
 // Bulbon Bulboff
 
 function bulbon(){
-    var a = document.getElementById("ofbulb")
+    var a = document.getElementById("offbulb");
 }
