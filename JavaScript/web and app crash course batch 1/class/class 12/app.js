@@ -50,7 +50,7 @@
 
 function styleapply(){
     var a = document.getElementsByTagName('p');
-    a[1].style.backgroundColor = 'green'
-    a[1].style.color = 'yellow'
-    a[1].style.padding = '5px'
+    // a[1].style.backgroundColor = 'green'
+    // a[1].style.color = 'yellow'
+    // a[1].style.padding = '5px'
 }
