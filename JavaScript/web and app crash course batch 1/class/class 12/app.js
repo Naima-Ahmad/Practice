@@ -31,5 +31,5 @@ function bulbon(){
 }
 
 function bulbof(){
-    
+    var a = document.getElementById('ofbulb')
 }
