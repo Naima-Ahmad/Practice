@@ -25,3 +25,11 @@
     background-color: black;
     text-align: center;
 } */
+
+/* Example 6 */
+
+.para{
+    background-color: green;
+    color: gold;
+    padding: 5px;
+}
