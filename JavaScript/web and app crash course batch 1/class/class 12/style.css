@@ -14,9 +14,5 @@
 
 body{
     background-color: black;
-}
-
-.image{
-    display: flex;
-    margin: auto;
+    text-align: center;
 }
