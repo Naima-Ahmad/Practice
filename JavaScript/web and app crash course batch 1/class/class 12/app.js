@@ -69,7 +69,6 @@
 
 function styleapply(){
     var a = document.getElementsByTagName('p');
-    // a[1].style.backgroundColor = 'green'
 
     for(var i = 0; i<a.length; i++){
         a[i].style.backgroundColor='green'
