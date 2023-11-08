@@ -9,5 +9,5 @@
 // Example 2
 
 function applyCss(){
-    
+    var c = document.getElementById("csslorem");
 }
