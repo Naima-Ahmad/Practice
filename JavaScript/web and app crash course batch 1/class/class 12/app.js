@@ -48,3 +48,4 @@
 
 // Example 6
 
+function
