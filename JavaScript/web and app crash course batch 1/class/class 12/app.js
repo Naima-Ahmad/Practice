@@ -1,5 +1,5 @@
 // Example 1
 
 function readMore(){
-    document.getElementById("abc");
+    var b = document.getElementById("abc");
 }
