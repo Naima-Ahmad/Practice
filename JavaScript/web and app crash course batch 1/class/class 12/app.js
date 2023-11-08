@@ -1,3 +1,5 @@
 // Example 1
 
-function readMore
+function readMore(){
+    
+}
