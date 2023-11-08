@@ -55,5 +55,7 @@ function styleapply(){
     // a[1].style.padding = '5px'
     // a[1].className='para';
 
-    for(var i = 0)
+    for(var i = 0; i<a.length; i++){
+        
+    }
 }
