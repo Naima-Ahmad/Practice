@@ -31,6 +31,6 @@ function bulbon(){
 }
 
 function bulbof(){
-    var t = document.getElementById('ofbulb');
-    t.src = './images/bulbof.webp';
+    var a = document.getElementById('ofbulb');
+    a.src = './images/bulbof.webp';
 }
