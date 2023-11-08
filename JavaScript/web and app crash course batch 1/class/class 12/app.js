@@ -11,5 +11,4 @@
 function applyCss(){
     var c = document.getElementById("csslorem");
     c.className="hello";
-    var d = document.getElementById('applycss-button');
 }
