@@ -49,5 +49,5 @@
 // Example 6
 
 function styleapply(){
-    var a = document.getElementById
+    var a = document.getElementsByTagName
 }
