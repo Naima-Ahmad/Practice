@@ -40,5 +40,5 @@
 // Example 5
 
 function change(){
-    
+    var a = document.getElementById
 }
