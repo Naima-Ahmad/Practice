@@ -32,5 +32,5 @@ function bulbon(){
 
 function bulbof(){
     var a = document.getElementById('ofbulb');
-    a.src =
+    a.src = ''
 }
