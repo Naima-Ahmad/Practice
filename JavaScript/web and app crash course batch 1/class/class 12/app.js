@@ -58,5 +58,7 @@ function styleapply(){
     for(var i = 0; i<a.length; i++){
         a[i].style.backgroundColor='green'
         a[i].style.color='gold'
+        a[i].style.color='gold'
+
     }
 }
