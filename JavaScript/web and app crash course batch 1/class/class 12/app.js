@@ -48,4 +48,6 @@
 
 // Example 6
 
-function styleapply()
+function styleapply(){
+    
+}
