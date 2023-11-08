@@ -1,8 +1,9 @@
 .hello{
     font-weight: bold;
-    color: blue;
+    color: gold;
     font-size: large;
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    background-color: blueviolet;
+    background-color: goldenrod;
+    padding: 30px;
 }
