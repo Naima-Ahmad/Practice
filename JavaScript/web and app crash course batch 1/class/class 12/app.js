@@ -50,5 +50,5 @@
 
 function styleapply(){
     var a = document.getElementsByTagName('p');
-    
+    a[1]
 }
