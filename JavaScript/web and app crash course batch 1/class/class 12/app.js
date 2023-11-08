@@ -32,4 +32,5 @@ function bulbon(){
 
 function bulboff(){
     var i = document.getElementById('offbulb');
+    i.src
 }
