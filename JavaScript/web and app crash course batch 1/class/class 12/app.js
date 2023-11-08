@@ -39,7 +39,12 @@
 
 // Example 5
 
-function change(){
-    var a = document.getElementById('link');
-    a.href='https://www.youtube.com';
-}
+// function change(){
+//     var a = document.getElementById('link');
+//     a.href='https://www.youtube.com';
+// }
+
+
+
+// Example 6
+
