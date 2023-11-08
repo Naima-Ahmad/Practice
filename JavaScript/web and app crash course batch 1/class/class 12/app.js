@@ -48,6 +48,25 @@
 
 // Example 6
 
+// function styleapply(){
+//     var a = document.getElementsByTagName('p');
+//     // a[1].style.backgroundColor = 'green'
+//     // a[1].style.color = 'yellow'
+//     // a[1].style.padding = '5px'
+//     // a[1].className='para';
+
+//     for(var i = 0; i<a.length; i++){
+//         a[i].style.backgroundColor='green'
+//         a[i].style.color='gold'
+//         a[i].style.padding='5px'
+
+//     }
+// }
+
+
+
+// Example 7
+
 function styleapply(){
     var a = document.getElementsByTagName('p');
     // a[1].style.backgroundColor = 'green'
