@@ -8,3 +8,6 @@
 
 // Example 2
 
+function applyCss(){
+    
+}
