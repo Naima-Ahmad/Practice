@@ -35,3 +35,10 @@
 //     var a = document.getElementById('offbulb');
 //     a.src = './images/bulbof.webp';
 // }
+
+
+// Example 5
+
+function change(){
+    
+}
