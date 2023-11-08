@@ -29,3 +29,7 @@ function bulbon(){
     var a = document.getElementById("offbulb");
     a.src='./images/bulbon.webp';
 }
+
+function bulbof(){
+    
+}
