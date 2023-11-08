@@ -10,4 +10,5 @@
 
 function applyCss(){
     var c = document.getElementById("csslorem");
+    c.className="hello";
 }
