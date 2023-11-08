@@ -31,5 +31,5 @@ function bulbon(){
 }
 
 function bulboff(){
-    var i = document
+    var i = document.getElementById
 }
