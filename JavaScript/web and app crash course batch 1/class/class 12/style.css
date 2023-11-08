@@ -17,5 +17,6 @@ body{
 }
 
 .image{
-    margin: auto !important;
+    display: flex;
+    margin: auto;
 }
