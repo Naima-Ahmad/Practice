@@ -9,14 +9,19 @@
 // Example 2
 
 // function applyCss(){
-//     var c = document.getElementById("csslorem");
-//     c.className="hello";
-// }
+//     var c = document.gtetElementById("csslorem");
+//     c.className="hfdfgello";
+// }kvfsdkgvjs;vms;dv
 
 
 // Example 3
 
-function zoomImage(){
-    var b = document.getElementById("cartoonImage");
-    b.className="zoom";
-}
+// function zoomImage(){
+//     var b = document.getElementById("cartoonImage");
+//     b.className="zoom";
+// }
+
+
+// Example 4
+// Bulbon Bulboff
+
