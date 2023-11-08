@@ -67,11 +67,11 @@
 
 // Example 7
 
-function styleapply(){
-    var a = document.getElementsByTagName('p');
+// function styleapply(){
+//     var a = document.getElementsByTagName('p');
 
-    for(var i = 0; i<a.length; i++){
-        a[i].className='para';
+//     for(var i = 0; i<a.length; i++){
+//         a[i].className='para';
 
-    }
-}
+//     }
+// }
