@@ -18,4 +18,5 @@
 
 function zoomImage(){
     var b = document.getElementById("cartoonImage")
+    b.className("")
 }
