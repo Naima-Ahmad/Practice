@@ -30,7 +30,4 @@ function bulbon(){
     a.src='./images/bulbon.webp';
 }
 
-function bulboff(){
-    var a = document.getElementById('ofbulb');
-    a.src='./images/bulbof.webp'
-}
+function bulboff()
