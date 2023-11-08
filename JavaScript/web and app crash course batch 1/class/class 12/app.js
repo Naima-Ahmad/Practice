@@ -17,5 +17,5 @@
 // Example 3
 
 function zoomImage(){
-    var b = document.getElementById 
+    var b = document.getElementById("cartoonImage")
 }
