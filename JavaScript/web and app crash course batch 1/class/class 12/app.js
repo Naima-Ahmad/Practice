@@ -16,3 +16,6 @@
 
 // Example 3
 
+function zoomImage(){
+    
+}
