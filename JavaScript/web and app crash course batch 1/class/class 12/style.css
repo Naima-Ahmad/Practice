@@ -11,3 +11,11 @@
 .zoom{
     width: 700px;
 }
+
+body{
+    background-color: black;
+}
+
+.image{
+    margin: auto !important;
+}
