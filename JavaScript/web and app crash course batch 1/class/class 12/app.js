@@ -25,13 +25,13 @@
 // Example 4
 // Bulbon Bulboff
 
-function bulbon(){
-    var a = document.getElementById("offbulb");
-    a.src='./images/bulbon.webp';
-}
+// function bulbon(){
+//     var a = document.getElementById("offbulb");
+//     a.src='./images/bulbon.webp';
+// }
 
 
-function bulboff(){
-    var a = document.getElementById('offbulb');
-    a.src = './images/bulbof.webp';
-}
+// function bulboff(){
+//     var a = document.getElementById('offbulb');
+//     a.src = './images/bulbof.webp';
+// }
