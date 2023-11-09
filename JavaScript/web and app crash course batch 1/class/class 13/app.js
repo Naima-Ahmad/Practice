@@ -2,5 +2,4 @@
 
 function apcss(){
     var a = document.getElementById('divmain').getElementsByTagName('p');
-    console.log(a)
 }
