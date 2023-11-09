@@ -66,3 +66,4 @@ var sec = 0;
 var msec = 0;
 var a = document.getElementById('msec')
 var b = document.getElementById('sec')
+var c = document.getElementById('min')
