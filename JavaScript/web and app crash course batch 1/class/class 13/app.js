@@ -91,5 +91,7 @@ function stop(){
 }
 
 function reset(){
-    
+    min = 0;
+    sec = 0;
+    msec = 0;
 }
