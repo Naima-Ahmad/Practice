@@ -13,5 +13,5 @@
 // Example 2
 
 setInterval(function(){
-    
-})
+    console.log("My name is Naima Ahmad")
+}, 1000)
