@@ -94,4 +94,7 @@ function reset(){
     min = 0;
     sec = 0;
     msec = 0;
+    a.innerHTML = min
+    b.innerHTML = sec
+    c.innerHTML = msec
 }
