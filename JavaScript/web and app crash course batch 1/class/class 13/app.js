@@ -12,6 +12,6 @@
 
 // Example 2
 
-setInterval(function(){
-    console.log("My name is Naima Ahmad")
-}, 1000)
+// setInterval(function(){
+//     document.write("Naima Ahmad <br>")
+// }, 1000)
