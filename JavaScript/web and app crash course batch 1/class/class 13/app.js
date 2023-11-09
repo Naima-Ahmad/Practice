@@ -48,13 +48,17 @@
 
 
 
-var a = 0;
-var interval;
-interval = setInterval(function(){
-    a++;
-    document.write(a+"<br>");
-},1000);
+// var a = 0;
+// var interval;
+// interval = setInterval(function(){
+//     a++;
+//     document.write(a+"<br>");
+// },1000);
 
-setTimeout(function(){
-    clearInterval(interval);
-},5000)
+// setTimeout(function(){
+//     clearInterval(interval);
+// },5000)
+
+
+
+var min = 0;
