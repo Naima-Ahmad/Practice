@@ -4,4 +4,5 @@ function applycss(){
     var b = document.getElementById('apply');
     b.style.display='none';
     var c = document.getElementById('hw');
+    c.className='hello';
 }
