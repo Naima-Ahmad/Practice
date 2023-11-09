@@ -5,5 +5,6 @@ function apcss(){
     for(var i = 0; i<a.length; i++){
         a[i].style.backgroundColor='gold'
         a[i].style.color='yellow'
+        a[i].style.padding='5px'
     }
 }
