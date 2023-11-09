@@ -1,5 +1,6 @@
 function applycss(){
     var a = document.getElementById('bac');
     a.style.display='inline';
-    var b = document.getElementById()
+    var b = document.getElementById('apply');
+    b.style.display='none';
 }
