@@ -9,4 +9,5 @@ function applycss(){
 
 function back(){
     var c = document.getElementById('hw');
+    c.className='';
 }
