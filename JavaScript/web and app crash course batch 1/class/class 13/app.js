@@ -69,5 +69,5 @@ var b = document.getElementById('sec')
 var c = document.getElementById('min')
 
 setInterval(function(){
-    msec++
+    msec++;
 },1000)
