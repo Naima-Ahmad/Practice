@@ -71,4 +71,5 @@ var c = document.getElementById('min')
 setInterval(function(){
     msec++;
     a.innerHTML = msec;
+    if()
 },10)
