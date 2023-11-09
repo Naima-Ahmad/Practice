@@ -14,3 +14,7 @@
     border-radius: 3px;
     padding: 10px 20px;
 }
+
+.none{
+    display: none;
+}
