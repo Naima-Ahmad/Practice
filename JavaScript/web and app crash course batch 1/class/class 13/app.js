@@ -76,9 +76,9 @@ setInterval(function(){
         b.innerHTML = sec;
         msec = 0;
     }
-    else if(sec >= 60){
+    else if(sec >= 10){
         min++
         c.innerHTML = min;
-        min = 0;
+        sec = 0;
     }
 },10)
