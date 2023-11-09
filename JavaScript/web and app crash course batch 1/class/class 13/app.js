@@ -15,3 +15,9 @@
 // setInterval(function(){
 //     document.write("Naima Ahmad <br>")
 // }, 1000)
+
+function foo(){
+    document.write("Naima ")
+}
+
+setInterval(foo, 1000)
