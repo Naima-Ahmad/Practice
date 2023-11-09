@@ -85,7 +85,7 @@ function start(){
         }
     },10);
     var e = document.getElementById('first')
-    e.style
+    e.style.disabled = true
 }
 
 function stop(){
