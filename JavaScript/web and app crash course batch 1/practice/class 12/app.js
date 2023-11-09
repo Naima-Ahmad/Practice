@@ -1,4 +1,4 @@
 function applycss(){
     var a = document.getElementById('hw');
-    a.className='hello'
+    a.className='hello';
 }
