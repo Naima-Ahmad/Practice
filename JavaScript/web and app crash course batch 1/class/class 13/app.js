@@ -56,5 +56,5 @@ interval = setInterval(function(){
 },1000);
 
 setTimeout(function(){
-    clearInterval();
+    clearInterval(interval);
 },5000)
