@@ -69,7 +69,7 @@ var b = document.getElementById('sec')
 var c = document.getElementById('min')
 
 function start(){
-    setInterval(function(){
+   var interval = setInterval(function(){
         msec++;
         a.innerHTML = msec;
         if(msec >= 100){
@@ -82,5 +82,9 @@ function start(){
             c.innerHTML = min;
             sec = 0;
         }
-    },10)
+    },10);
+}
+
+function stop(){
+    clearInterval(interval)
 }
