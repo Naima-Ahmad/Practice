@@ -4,3 +4,8 @@ function applycss(){
     var b = document.getElementById('apply');
     b.style.display= 'none';
 }
+
+function back(){
+    var c = document.getElementById('apply');
+    c.style.disple='inline';
+}
