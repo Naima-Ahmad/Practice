@@ -10,4 +10,6 @@ function applycss(){
 function back(){
     var c = document.getElementById('hw');
     c.className='';
+    var e = document.getElementById('apply');
+    e.style.display='inline';
 }
