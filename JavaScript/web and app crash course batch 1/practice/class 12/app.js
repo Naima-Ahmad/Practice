@@ -8,5 +8,5 @@ function applycss(){
 }
 
 function back(){
-    
+    var c = document.getElementById
 }
