@@ -12,4 +12,6 @@ function back(){
     c.className='';
     var e = document.getElementById('apply');
     e.style.display='inline';
+    var f = document.getElementById('bac');
+    f.style.display='none';
 }
