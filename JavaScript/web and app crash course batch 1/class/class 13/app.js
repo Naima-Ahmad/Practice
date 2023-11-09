@@ -54,3 +54,7 @@ interval = setInterval(function(){
     a++;
     document.write(a+"<br>");
 },1000);
+
+setTimeout(function(){
+    clearInterval();
+},5000)
