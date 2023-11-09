@@ -3,5 +3,5 @@ function applycss(){
     a.style.display='inline';
     var b = document.getElementById('apply');
     b.style.display='none';
-    var c = document
+    var c = document.getElementById
 }
