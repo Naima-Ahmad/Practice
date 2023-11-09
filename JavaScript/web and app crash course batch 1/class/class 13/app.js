@@ -49,4 +49,4 @@
 
 
 var a = 0;
-setInterval()
+setInterval(function(),1000)
