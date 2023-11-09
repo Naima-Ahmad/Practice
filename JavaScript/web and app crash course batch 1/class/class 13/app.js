@@ -84,7 +84,7 @@ function start(){
             sec = 0;
         }
     }, 10)
-    document.getElementById('first').disabled = true
+    document
 }
 
 function stop(){
