@@ -49,6 +49,7 @@
 
 
 var a = 0;
+var interval;
 setInterval(function(){
     a++;
     document.write(a+"<br>");
