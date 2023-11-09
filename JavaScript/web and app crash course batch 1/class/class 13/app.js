@@ -53,4 +53,4 @@ var interval;
 interval = setInterval(function(){
     a++;
     document.write(a+"<br>");
-},1000)
+},1000);
