@@ -18,6 +18,8 @@
 
 
 
+
+
 // function foo(){
 //     document.write("Naima ")
 // }
@@ -25,9 +27,25 @@
 // setInterval(foo, 1000)
 
 
+
+
+// var a = 0;
+// var interval ; 
+// interval = setInterval(function(){
+//     a++
+//     console.log(a)
+// },1000)
+
+// clearInterval(interval)
+
+
+
+
+// setTimeout(function(){
+//     console.log("Naima")
+// },2000)
+
+
+
+
 var a = 0;
-var interval ; 
-setInterval(function(){
-    a++
-    console.log(a)
-},1000)
