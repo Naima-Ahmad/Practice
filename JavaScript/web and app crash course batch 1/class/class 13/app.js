@@ -72,7 +72,7 @@ setInterval(function(){
     msec++;
     a.innerHTML = msec;
     if(msec >= 100){
-        sec++
+        sec++;
         b.innerHTML = sec;
     }
 },10)
