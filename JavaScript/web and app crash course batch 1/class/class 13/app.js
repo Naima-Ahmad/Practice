@@ -50,5 +50,5 @@
 
 var a = 0;
 setInterval(function(){
-    a++
+    a++;
 },1000)
