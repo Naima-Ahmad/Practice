@@ -84,11 +84,12 @@ function start(){
             sec = 0;
         }
     }, 10)
-    document
+    document.getElementById('first').disabled = true
 }
 
 function stop(){
     clearInterval(interval);
+    document.getElementById('first').disabled = false
 }
 
 function reset(){
