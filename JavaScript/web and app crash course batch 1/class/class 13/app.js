@@ -83,7 +83,7 @@ function start(){
             c.innerHTML = min;
             sec = 0;
         }
-    },10);
+    }, 10)
     document.getElementById('first').disabled = true
 }
 
