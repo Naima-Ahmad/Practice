@@ -86,5 +86,5 @@ function start(){
 }
 
 function stop(){
-    clearInterval(interval)
+    clearInterval(interval);
 }
