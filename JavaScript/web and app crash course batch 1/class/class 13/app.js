@@ -26,6 +26,8 @@
 
 
 var a = 0;
+var interval ; 
 setInterval(function(){
-    
+    a++
+    console.log(a)
 },1000)
