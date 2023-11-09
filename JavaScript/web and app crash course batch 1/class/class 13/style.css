@@ -1,0 +1,15 @@
+body{
+    margin: 0px;
+}
+
+.inline{
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    color: white;
+    font-family: sans-serif;
+}
+
+.text-center{
+    text-align: center;
+}
