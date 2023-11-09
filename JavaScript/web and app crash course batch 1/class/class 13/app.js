@@ -67,3 +67,7 @@ var msec = 0;
 var a = document.getElementById('msec')
 var b = document.getElementById('sec')
 var c = document.getElementById('min')
+
+setInterval(function(){
+    msec++
+},1000)
