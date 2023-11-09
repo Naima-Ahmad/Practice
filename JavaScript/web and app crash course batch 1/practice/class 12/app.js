@@ -6,3 +6,7 @@ function applycss(){
     var c = document.getElementById('hw');
     c.className='hello';
 }
+
+function back(){
+    
+}
