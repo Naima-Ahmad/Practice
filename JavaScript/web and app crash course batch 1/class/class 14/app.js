@@ -49,5 +49,5 @@
 // Example 7
 
 function send(){
-    
+    var a = document.getElementById('int')
 }
