@@ -32,3 +32,7 @@
 
 // Example 5
 
+function abc(){
+    var a = document.getElementById('hello')
+    var b = a.setAttribute('class','chng')
+}
