@@ -40,4 +40,7 @@
 
 // Example 6
 
-var CE = document.createElement('')
+var CE = document.createElement('p')
+var b = document.createTextNode('hello world')
+CE.appendChild(b)
+console.log(CE)
