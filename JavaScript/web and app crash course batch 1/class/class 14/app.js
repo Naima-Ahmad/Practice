@@ -48,9 +48,18 @@
 
 // Example 7
 
-function send(){
-    var a = document.getElementById('int');
-    var r = document.getElementById('bbb')
-    var c = document.createTextNode(a.value);
-    r.appendChild(c)
+// function send(){
+//     var a = document.getElementById('int');
+//     var r = document.getElementById('bbb')
+//     var c = document.createTextNode(a.value);
+//     r.appendChild(c)
+// }
+
+
+// Example 8
+
+var a = document.getElementById('abc')
+
+function add(){
+    
 }
