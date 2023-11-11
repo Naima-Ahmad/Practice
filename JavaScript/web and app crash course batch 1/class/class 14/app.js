@@ -25,5 +25,5 @@
 
 function abc(){
     var a = document.getElementById('hello')
-    a.getAttribute('class')
+    var b = a.getAttribute('class')
 }
