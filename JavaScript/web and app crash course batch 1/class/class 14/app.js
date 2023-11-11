@@ -40,3 +40,4 @@
 
 // Example 6
 
+var CE = document.createElement('')
