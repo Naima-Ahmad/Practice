@@ -1,45 +1,73 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Class 14</title>
-    <style>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Class 14</title>
+        <style>
+            
+            /* Example 5 */
+            
+            body{
+                background-color: rgb(255, 246, 232);
+            }
 
-        /* Example 5 */
-
-        .chng{
-            color: gold;
-            background-color: yellow;
-            padding: 10px;
-            font-family: cursive;
-            font-size: x-large;
-        }
-
-        
-        ol{
-            padding-left: 20px;
+            .add{
+                height: 24px;
+                width: 50px;
+                border: 1px solid blueviolet;
+            }
+            .dall{
+                height: 24px;
+                border: 1px solid blueviolet;
+                width: 75px;
+            }
+            
+            .inpt{
+                width: 180px;
+                height: 21px;
+                border: 1px solid rgb(125, 125, 125);
+                padding-left: 6px;
+            }
+            
+            
+            .chng{
+                color: gold;
+                background-color: yellow;
+                padding: 10px;
+                font-family: cursive;
+                font-size: x-large;
+            }
+            
+            
+            ul{
+                padding-left: 0px;
         }
         
         li{
-            /* border: 2px solid grey; */
             display: flex;
             justify-content: space-between;
             align-items: center;
+            background-color: blanchedalmond;
+            padding: 0px 4px;
+            margin-bottom: 8px;
         }
         
+        button{
+            background-color: blueviolet;
+            color: white;
+            border: 2px solid blueviolet;
+        }
         .aib{
             margin-left: 60px;
             background-color: blueviolet;
             color: white;
             border: 2px solid blueviolet;
-            border-radius: 3px;
             height: 23px;
             margin-top: 4px;
         }
         
         .lab{
-            /* border: 2px solid salmon; */
             display: flex;
             justify-content: right;
             align-content: center;
@@ -48,35 +76,34 @@
             background-color: blueviolet;
             color: white;
             border: 2px solid blueviolet;
-            border-radius: 3px;
             margin-left: 10px;
             height: 23px;
             margin-top: 4px;
             margin-bottom: 4px;
         }
-
-    </style>
+        
+        </style>
 </head>
 <body>
     
     <!-- Example 2 -->
 
     <!-- <p id="hello" class="">Hello World</p>
-    <button onclick="abc()">Click</button> -->
+        <button onclick="abc()">Click</button> -->
     
 
-    <!-- Example 3 -->
-
-    <!-- <p id="hello">Hello World</p>
-    <button onclick="abc()">Click</button> -->
-    
-
-    <!-- Example 4 -->
-    
-    <!-- <p id="hello" class="abc">Hello World</p>
-    <button onclick="abc()">Click</button> -->
-
-    
+        <!-- Example 3 -->
+        
+        <!-- <p id="hello">Hello World</p>
+            <button onclick="abc()">Click</button> -->
+            
+            
+            <!-- Example 4 -->
+            
+            <!-- <p id="hello" class="abc">Hello World</p>
+                <button onclick="abc()">Click</button> -->
+                
+                
     <!-- Example 5 -->
 
     <!-- <p id="hello">Hello World</p>
@@ -97,12 +124,12 @@
 
     <!-- Example 8 -->
 
-    <input type="text" name="" id="addtodo">
-    <button onclick="add()">Add</button>
-    <button onclick="delall()">Delete All</button>
-    <ol id="abc">
+    <input class="inpt" type="text" name="" placeholder="comment..." id="addtodo">
+    <button class="add" onclick="add()">Add</button>
+    <button class="dall" onclick="delall()">Delete All</button>
+    <ul id="abc">
 
-    </ol>
+    </ul>
 
 
     <script src="app.js"></script>

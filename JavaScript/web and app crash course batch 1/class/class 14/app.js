@@ -85,7 +85,7 @@ function add(){
     li.appendChild(label)
 }
 function delitem(e){
-    e.parentNode.remove()
+    e.parentNode.parentNode.remove()
 }
 
 function delall(){
@@ -94,6 +94,6 @@ function delall(){
 
 
 function edi(e){
-    var a = prompt("Enter value which you want to edit.",e.parentNode.firstChild.nodeValue)
-    e.parentNode.firstChild.nodeValue = a
+    var a = prompt("Enter value which you want to edit.",e.parentNode.parentNode.firstChild.nodeValue)
+    e.parentNode.parentNode.firstChild.nodeValue = a
 }
