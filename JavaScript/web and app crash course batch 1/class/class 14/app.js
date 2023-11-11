@@ -61,5 +61,7 @@
 var a = document.getElementById('abc')
 
 function add(){
-    
+    var add = document.getElementById('addtodo')
+    var li = document.createElement('li')
+    var textinsert = document.createTextNode(add.value)
 }
