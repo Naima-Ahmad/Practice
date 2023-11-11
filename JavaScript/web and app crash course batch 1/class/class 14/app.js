@@ -5,8 +5,20 @@
 
 // Exmaple 2
 
+// function abc(){
+//     var a = document.getElementById('hello')
+//     var b = a.hasAttribute('class')
+//     console.log(b)
+// }
+
+
+// Exmaple 3
+
 function abc(){
     var a = document.getElementById('hello')
     var b = a.hasAttribute('class')
     console.log(b)
 }
+
+
+// Example 4
