@@ -50,4 +50,5 @@
 
 function send(){
     var a = document.getElementById('int')
+    var b = document.createElement('p')
 }
