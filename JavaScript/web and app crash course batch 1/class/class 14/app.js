@@ -64,4 +64,13 @@ function add(){
     var add = document.getElementById('addtodo')
     var li = document.createElement('li')
     var textinsert = document.createTextNode(add.value)
+    li.appendChild(textinsert)
+    console.log(li)
+    a.appendChild(li)
+    add.value = null
+    var del = document.createElement('button')
+    var cd = document.createTextNode("Delete")
+    del.appendChild(cd)
+    li.appendChild(del)
+    del.setAttribute('onclick','delitem()')
 }
