@@ -24,5 +24,6 @@
 // Example 4
 
 function abc(){
-
+    var a = document.getElementById('hello')
+    a.getAttribute('class')
 }
