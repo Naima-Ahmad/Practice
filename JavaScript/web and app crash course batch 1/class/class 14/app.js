@@ -14,11 +14,12 @@
 
 // Exmaple 3
 
-function abc(){
-    var a = document.getElementById('hello')
-    var b = a.hasAttribute('class')
-    console.log(b)
-}
+// function abc(){
+//     var a = document.getElementById('hello')
+//     var b = a.hasAttribute('class')
+//     console.log(b)
+// }
 
 
 // Example 4
+
