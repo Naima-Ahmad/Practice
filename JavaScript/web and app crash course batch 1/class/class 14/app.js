@@ -44,3 +44,7 @@
 // var b = document.createTextNode('hello world')
 // CE.appendChild(b)
 // console.log(CE)
+
+
+// Example 7
+
