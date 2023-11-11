@@ -23,7 +23,12 @@
 
 // Example 4
 
-function abc(){
-    var a = document.getElementById('hello')
-    var b = a.getAttribute('class')
-}
+// function abc(){
+//     var a = document.getElementById('hello')
+//     var b = a.getAttribute('class')
+//     console.log(b)
+// }
+
+
+// Example 5
+
