@@ -52,4 +52,5 @@ function send(){
     var a = document.getElementById('int');
     var b = document.createElement('p');
     var c = document.createTextNode(a.value);
+    b.appendChild(c)
 }
