@@ -30,9 +30,9 @@ function stop(){
 }
 
 function reset(){
-    var min = 0
-    var sec = 0
-    var msec = 0
+    min = 0
+    sec = 0
+    msec = 0
     a.innerHTML = msec
     b.innerHTML = sec
     c.innerHTML = min
