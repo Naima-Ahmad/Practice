@@ -50,7 +50,7 @@
 
 function send(){
     var a = document.getElementById('int');
-    var b = document.createElement('p');
+    var r = document.getElementById('bbb')
     var c = document.createTextNode(a.value);
-    b.appendChild(c)
+    r.appendChild(c)
 }
