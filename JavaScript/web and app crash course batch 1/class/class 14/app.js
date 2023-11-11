@@ -48,3 +48,6 @@
 
 // Example 7
 
+function send(){
+    
+}
