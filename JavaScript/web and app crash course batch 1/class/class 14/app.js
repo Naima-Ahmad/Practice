@@ -74,7 +74,10 @@ function add(){
     li.appendChild(del)
     del.setAttribute('onclick','delitem(this)')
 }
-
 function delitem(e){
     e.parentNode.remove()
+}
+
+function delall(){
+    a.innerHTML = ''
 }
