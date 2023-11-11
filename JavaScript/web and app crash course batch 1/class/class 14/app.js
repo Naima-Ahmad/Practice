@@ -74,3 +74,7 @@ function add(){
     li.appendChild(del)
     del.setAttribute('onclick','delitem()')
 }
+
+function delitem(){
+    alert('ok')
+}
