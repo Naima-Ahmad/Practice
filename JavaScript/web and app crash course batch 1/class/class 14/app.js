@@ -72,9 +72,9 @@ function add(){
     var cd = document.createTextNode("Delete")
     del.appendChild(cd)
     li.appendChild(del)
-    del.setAttribute('onclick','delitem()')
+    del.setAttribute('onclick','delitem(this)')
 }
 
-function delitem(){
-    alert('ok')
+function delitem(e){
+    e.parentNode.remove()
 }
