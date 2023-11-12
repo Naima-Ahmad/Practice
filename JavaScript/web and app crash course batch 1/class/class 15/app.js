@@ -126,4 +126,12 @@ var student1 = {
     name1 : 'Naima',
     age : 12,
     id : p-114034,
+    department: 'Computer-Science'
+}
+
+var student2 = {
+    name1 : 'Laiba',
+    age : 12,
+    id : p-114054,
+    department: 'AI'
 }
