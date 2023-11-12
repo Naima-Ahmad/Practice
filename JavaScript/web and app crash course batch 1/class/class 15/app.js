@@ -146,3 +146,6 @@ function Students(name,age,department){
 }
 
 var a = student1 = new Students('Naima',12,'AI')
+var a = student2 = new Students('Laiba',12,'Computer-Science')
+console.log(student1)
+console.log(student2)
