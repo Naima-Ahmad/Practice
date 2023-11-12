@@ -122,3 +122,8 @@
 
 // Exmaple 10
 
+var student1 = {
+    name1 : 'Naima',
+    age : 12,
+    id : p-114034,
+}
