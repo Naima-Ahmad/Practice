@@ -36,10 +36,23 @@
 
 // Example 5
 
+//  var obj = {
+//      name1 : 'Naima',
+//      age : 12 ,
+//      arr : ['Naima','Ahmad','08437']
+//  }
+
+// document.write(obj)
+
+
+// Example 5
+
  var obj = {
      name1 : 'Naima',
      age : 12 ,
      arr : ['Naima','Ahmad','08437']
  }
 
-document.write(obj)
+for(var i = 0; i>obj.length; i++){
+    document.write(obj[i])
+}
