@@ -3,3 +3,5 @@
 var obj = {
     name1 : 'Naima'
 }
+
+document.write(obj)
