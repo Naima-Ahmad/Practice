@@ -80,5 +80,5 @@
  }
 
 for(var key in obj){
-    document.write()
+    document.write(obj[key]+"<br>")
 }
