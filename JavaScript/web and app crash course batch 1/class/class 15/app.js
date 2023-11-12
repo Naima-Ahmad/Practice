@@ -60,12 +60,25 @@
 
 // Example 7
 
+//  var obj = {
+//      name1 : 'Naima',
+//      age : 12 ,
+//      arr : ['Naima','Ahmad','08437']
+//  }
+
+// for(var key in obj){
+//     document.write(key+"<br>")
+// }
+
+
+// Example 8
+
  var obj = {
      name1 : 'Naima',
      age : 12 ,
-     arr : ['Naima','Ahmad','08437']
+    //  arr : ['Naima','Ahmad','08437']
  }
 
 for(var key in obj){
-    document.write(key+"<br>")
+    document.write()
 }
