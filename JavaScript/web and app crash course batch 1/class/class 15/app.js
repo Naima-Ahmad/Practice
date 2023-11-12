@@ -122,16 +122,27 @@
 
 // Exmaple 10
 
-var student1 = {
-    name1 : 'Naima',
-    age : 12,
-    id : p-114034,
-    department: 'Computer-Science'
+// var student1 = {
+//     name1 : 'Naima',
+//     age : 12,
+//     id : p-114034,
+//     department: 'Computer-Science'
+// }
+
+// var student2 = {
+//     name1 : 'Laiba',
+//     age : 12,
+//     id : p-114054,
+//     department: 'AI'
+// }
+
+
+// Constructor Function()
+
+function Students(name,age,department){
+    this.name = name;
+    this.age = age;
+    this.department = department;
 }
 
-var student2 = {
-    name1 : 'Laiba',
-    age : 12,
-    id : p-114054,
-    department: 'AI'
-}
+var a = student1 = new Students('Naima',12,'AI')
