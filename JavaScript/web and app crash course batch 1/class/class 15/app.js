@@ -73,12 +73,52 @@
 
 // Example 8
 
- var obj = {
-     name1 : 'Naima',
-     age : 12 ,
-    //  arr : ['Naima','Ahmad','08437']
- }
+//  var obj = {
+//      name1 : 'Naima',
+//      age : 12 ,
+//     //  arr : ['Naima','Ahmad','08437']
+//  }
 
-for(var key in obj){
-    document.write(obj[key]+"<br>")
-}
+// for(var key in obj){
+//     document.write(obj[key]+"<br>")
+// }
+
+
+// Example 8
+
+//  var obj = {
+//      name1 : 'Naima',
+//      age : 12 ,
+//      phonenum : "0123456789",
+//      arr : ['Naima','Ahmad','08437']
+//  }
+
+// for(var key in obj){
+//     document.write(key+": "+obj[key]+"<br>")
+// }
+
+
+// Example 9
+
+// var quiz = [
+//     {
+//         question : 'What is your Name?',
+//         answer : [
+//         {
+//                 ans1 : 'Naima',
+//                 ans2 : 'Ahmad',
+//                 ans3 : 'Hello World'
+//         },
+//         correctans ={
+//             ans1
+//         }
+//         ]
+//     },
+//     {},
+//     {}
+// ]
+
+
+
+// Exmaple 10
+
