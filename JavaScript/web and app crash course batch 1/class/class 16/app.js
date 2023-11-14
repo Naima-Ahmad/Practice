@@ -1,3 +1,4 @@
 // Example 1
 
-localStorage.setItem('Name','Naima')
+localStorage.setItem('name','Naima')
+localStorage.setItem('age',12)
