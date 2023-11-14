@@ -12,4 +12,4 @@
 
 // Example 3
 
-document.write(localStorage.getItem('name'))
+document.write(localStorage.getItem('name'), localStorage.getItem('age'), localStorage.getItem('exist'))
