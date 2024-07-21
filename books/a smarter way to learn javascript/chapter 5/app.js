@@ -79,24 +79,47 @@
 // document.write(F+"℉ is "+celcius+"℃")
 
 // Question 7
-var priceItem1 = 650;
-var priceItem2 = 100;
-var orderQuantityItem1 = 3;
-var orderQuantityItem2 = 7;
-var shippingCharges = 100;
-var price1 = 650*3;
-var price2 = 100*7;
-var totalCoast = price1+price2+shippingCharges;
+// var priceItem1 = 650;
+// var priceItem2 = 100;
+// var orderQuantityItem1 = 3;
+// var orderQuantityItem2 = 7;
+// var shippingCharges = 100;
+// var price1 = 650*3;
+// var price2 = 100*7;
+// var totalCoast = price1+price2+shippingCharges;
+// document.write("<br>")
+// document.write("Price of item 1 is "+priceItem1);
+// document.write("<br>")
+// document.write("Quantity of item 1 is "+orderQuantityItem1);
+// document.write("<br>")
+// document.write("Price of item 2 is "+priceItem2);
+// document.write("<br>")
+// document.write("Quantity of item 2 is "+orderQuantityItem2);
+// document.write("<br>")
+// document.write("Shipping Charges "+shippingCharges);
+// document.write("<br>")
+// document.write("<br>")
+// document.write("Total cost of your order is "+totalCoast);
+
+// Question 8
+// var totalMarks = 980;
+// var obtainedMarks = 804;
+// var percentage = (obtainedMarks/totalMarks)*100;
+// document.write("<h1>Marks Sheet</h1>");
+// document.write("<br>");
+// document.write("<b>Total Marks: </b>"+totalMarks);
+// document.write("<br>");
+// document.write("<b>Obtained Marks: </b>"+obtainedMarks);
+// document.write("<br>");
+// document.write("<b>Percentage: </b>"+percentage+"%");
+// document.write("<br>");
+
+// Question 9
+var usDollars = 10;
+var saudiRiyals = 25;
+var usDollars1 = 104.80;
+var saudiRiyals1 = 28;
+var totalcurrency = (usDollars*usDollars1)+(saudiRiyals*saudiRiyals1);
+document.write("<h1>Currency in PKR</h1>");
 document.write("<br>")
-document.write("Price of item 1 is "+priceItem1);
-document.write("<br>")
-document.write("Quantity of item 1 is "+orderQuantityItem1);
-document.write("<br>")
-document.write("Price of item 2 is "+priceItem2);
-document.write("<br>")
-document.write("Quantity of item 2 is "+orderQuantityItem2);
-document.write("<br>")
-document.write("Shipping Charges "+shippingCharges);
-document.write("<br>")
-document.write("<br>")
-document.write("Total cost of your order is "+totalCoast);
+document.write("Total currency in PKR: "+totalcurrency)
